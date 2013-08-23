@@ -1,0 +1,30 @@
+Martin J. Minaya Palacio. Assignment 2.
+
+(a) Find the names of all employees who work for First Bank.
+SELECT employee_name, company_name 
+  FROM works 
+ WHERE company_name = "First Bank";
+
+(b) Find all employees in the database who live in the same cities as the companies for which they work.
+select e.employe_name from employee e, works w, company c where e.employee_name = w.employee_name and e.city = c.city and w.company_name = c.company_name;
+
+(c)  Find all employees in the database who live in the same cities and on the same streets as do their 
+managers.
+select e1.employee_name from employee e1, employee e2, manages m where e1.employee_name = m.employee_name and m_manager_name = e2.employee_name and e1.street = e2.street and e1.city = e2.city;
+
+(d) Find all employees who earn more than the average salary of all employees of their company.
+select * from works w1
+where w1.salary >(
+select avg(w2.salary)
+from works w2 where w2.company_name = w1.company_name);
+
+(e) Give all employees of First Bank a 10-percent raise.
+update works set salary = (salary + (salary * 0.10)) where company_name = "First Bank";
+
+(f) Delete all tuples in the works relation for employees of Small Bank.
+DELETE FROM works WHERE company_name = "First Bank";
+
+(g) Define a view consisting of manager_name and the average salary of all employees who work for that 
+manager.
+create view TEST as select m.manager_name, avg(salary) from works w, manages m where w.employee_name = m.employee_name group by m.manager_name;
+

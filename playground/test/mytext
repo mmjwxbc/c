@@ -1,0 +1,1289 @@
+Feb 27 01:05:49 111 rsyslogd: [origin software="rsyslogd" swVersion="4.2.0" x-pid="939" x-info="http://www.rsyslog.com"] rsyslogd was HUPed, type 'lightweight'.
+Feb 27 01:54:41 111 kernel: [48807.380942] type=1400 audit(1298789681.234:23): apparmor="STATUS" operation="profile_load" name="/usr/sbin/mysqld" pid=11938 comm="apparmor_parser"
+Feb 27 01:54:41 111 kernel: [48807.413800] type=1400 audit(1298789681.266:24): apparmor="STATUS" operation="profile_replace" name="/usr/sbin/mysqld" pid=11942 comm="apparmor_parser"
+Feb 27 03:13:49 111 kernel: [53555.628663] CE: hpet increased min_delta_ns to 16875 nsec
+Feb 27 04:00:45 111 kernel: [56371.288647] CE: hpet increased min_delta_ns to 25312 nsec
+Feb 27 04:07:04 111 kernel: [56750.276113] Skipping EDID probe due to cached edid
+Feb 27 04:08:36 111 kernel: [56842.405797] Skipping EDID probe due to cached edid
+Feb 27 04:32:48 111 kernel: [58294.842715] usb 1-3: USB disconnect, address 11
+Feb 27 04:32:48 111 kernel: [58294.864284] ipheth 1-3:4.2: Apple iPhone USB Ethernet now disconnected
+Feb 27 04:34:03 111 kernel: [58369.696412] usb 4-2: USB disconnect, address 4
+Feb 27 06:27:56 111 kernel: [65202.915115] Skipping EDID probe due to cached edid
+Feb 27 06:27:56 111 kernel: [65203.096068] Skipping EDID probe due to cached edid
+Feb 27 13:23:49 111 kernel: [90156.114736] Skipping EDID probe due to cached edid
+Feb 27 14:01:27 111 kernel: [92413.676578] usb 4-2: new low speed USB device using uhci_hcd and address 5
+Feb 27 14:01:27 111 kernel: [92413.879415] input: Microsft Microsoft Wireless Desktop Receiver 3.1 as /devices/pci0000:00/0000:00:1a.1/usb4/4-2/4-2:1.0/input/input17
+Feb 27 14:01:27 111 kernel: [92413.879583] microsoft 0003:045E:00F9.0006: input,hidraw0: USB HID v1.11 Keyboard [Microsft Microsoft Wireless Desktop Receiver 3.1] on usb-0000:00:1a.1-2/input0
+Feb 27 14:01:27 111 kernel: [92413.970109] microsoft 0003:045E:00F9.0007: fixing up Microsoft Wireless Receiver Model 1028 report descriptor
+Feb 27 14:01:27 111 kernel: [92414.022262] input: Microsft Microsoft Wireless Desktop Receiver 3.1 as /devices/pci0000:00/0000:00:1a.1/usb4/4-2/4-2:1.1/input/input18
+Feb 27 14:01:27 111 kernel: [92414.022402] microsoft 0003:045E:00F9.0007: input,hidraw1: USB HID v1.11 Mouse [Microsft Microsoft Wireless Desktop Receiver 3.1] on usb-0000:00:1a.1-2/input1
+Feb 27 14:02:18 111 kernel: [92465.057775] Skipping EDID probe due to cached edid
+Feb 27 14:02:19 111 kernel: [92465.234307] Skipping EDID probe due to cached edid
+Feb 27 15:12:07 111 kernel: [96653.374104] atkbd serio0: Unknown key pressed (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:07 111 kernel: [96653.374110] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:07 111 kernel: [96653.380040] atkbd serio0: Unknown key released (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:07 111 kernel: [96653.380045] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:07 111 kernel: [96653.463431] atkbd serio0: Unknown key pressed (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:07 111 kernel: [96653.463439] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:07 111 kernel: [96653.469584] atkbd serio0: Unknown key released (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:07 111 kernel: [96653.469591] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:07 111 kernel: [96653.489584] atkbd serio0: Unknown key pressed (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:07 111 kernel: [96653.489589] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:07 111 kernel: [96653.497261] atkbd serio0: Unknown key released (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:07 111 kernel: [96653.497268] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:07 111 kernel: [96653.512732] atkbd serio0: Unknown key pressed (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:07 111 kernel: [96653.512739] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:07 111 kernel: [96653.521093] atkbd serio0: Unknown key released (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:07 111 kernel: [96653.521100] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:07 111 kernel: [96653.538558] atkbd serio0: Unknown key pressed (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:07 111 kernel: [96653.538565] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:07 111 kernel: [96653.544262] atkbd serio0: Unknown key released (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:07 111 kernel: [96653.544269] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:07 111 kernel: [96653.563950] atkbd serio0: Unknown key pressed (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:07 111 kernel: [96653.563954] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:07 111 kernel: [96653.570757] atkbd serio0: Unknown key released (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:07 111 kernel: [96653.570761] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:07 111 kernel: [96653.600765] atkbd serio0: Unknown key pressed (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:07 111 kernel: [96653.600770] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:07 111 kernel: [96653.607208] atkbd serio0: Unknown key released (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:07 111 kernel: [96653.607212] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:07 111 kernel: [96653.628731] atkbd serio0: Unknown key pressed (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:07 111 kernel: [96653.628736] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:07 111 kernel: [96653.634799] atkbd serio0: Unknown key released (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:07 111 kernel: [96653.634804] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:07 111 kernel: [96653.654325] atkbd serio0: Unknown key pressed (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:07 111 kernel: [96653.654332] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:07 111 kernel: [96653.662207] atkbd serio0: Unknown key released (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:07 111 kernel: [96653.662214] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:07 111 kernel: [96653.683372] atkbd serio0: Unknown key pressed (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:07 111 kernel: [96653.683376] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:07 111 kernel: [96653.689424] atkbd serio0: Unknown key released (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:07 111 kernel: [96653.689430] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:07 111 kernel: [96653.693309] atkbd serio0: Unknown key pressed (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:07 111 kernel: [96653.693313] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:07 111 kernel: [96653.699176] atkbd serio0: Unknown key released (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:07 111 kernel: [96653.699181] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:07 111 kernel: [96653.715776] atkbd serio0: Unknown key pressed (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:07 111 kernel: [96653.715782] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:07 111 kernel: [96653.721482] atkbd serio0: Unknown key released (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:07 111 kernel: [96653.721488] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:07 111 kernel: [96653.726476] atkbd serio0: Unknown key pressed (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:07 111 kernel: [96653.726481] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:07 111 kernel: [96653.733410] atkbd serio0: Unknown key released (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:07 111 kernel: [96653.733417] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:10 111 kernel: [96656.374390] atkbd serio0: Unknown key pressed (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:10 111 kernel: [96656.374397] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:10 111 kernel: [96656.380756] atkbd serio0: Unknown key released (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:10 111 kernel: [96656.380762] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:11 111 kernel: [96657.542123] atkbd serio0: Unknown key pressed (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:11 111 kernel: [96657.542130] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:11 111 kernel: [96657.555561] atkbd serio0: Unknown key released (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:11 111 kernel: [96657.555567] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:11 111 kernel: [96657.574420] atkbd serio0: Unknown key pressed (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:11 111 kernel: [96657.574424] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:11 111 kernel: [96657.579519] atkbd serio0: Unknown key released (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:11 111 kernel: [96657.579523] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:11 111 kernel: [96657.663362] atkbd serio0: Unknown key pressed (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:11 111 kernel: [96657.663367] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:11 111 kernel: [96657.669615] atkbd serio0: Unknown key released (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:11 111 kernel: [96657.669626] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:11 111 kernel: [96657.754579] atkbd serio0: Unknown key pressed (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:11 111 kernel: [96657.754586] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:11 111 kernel: [96657.760853] atkbd serio0: Unknown key released (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:11 111 kernel: [96657.760859] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:11 111 kernel: [96657.777364] atkbd serio0: Unknown key pressed (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:11 111 kernel: [96657.777369] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 15:12:11 111 kernel: [96657.784145] atkbd serio0: Unknown key released (translated set 2, code 0x94 on isa0060/serio0).
+Feb 27 15:12:11 111 kernel: [96657.784149] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Feb 27 18:24:55 111 kernel: [108221.357584] lo: Disabled Privacy Extensions
+Feb 27 18:27:42 111 kernel: [108388.422367] Skipping EDID probe due to cached edid
+Feb 27 20:51:12 111 kernel: [116998.332068] usb 1-3: new high speed USB device using ehci_hcd and address 13
+Feb 27 20:51:13 111 kernel: [116999.728130] ipheth: probe of 1-3:4.2 failed with error -110
+Feb 27 20:51:14 111 usbmuxd[18990]: [2] Could not get serial number for device 1-13: 0
+Feb 27 21:03:27 111 pulseaudio[1529]: ratelimit.c: 432 events suppressed
+Feb 27 22:16:36 111 pulseaudio[1529]: ratelimit.c: 430 events suppressed
+Feb 27 22:37:50 111 pulseaudio[1529]: ratelimit.c: 425 events suppressed
+Feb 27 22:53:40 111 pulseaudio[1529]: ratelimit.c: 431 events suppressed
+Feb 27 23:02:28 111 pulseaudio[1529]: ratelimit.c: 421 events suppressed
+Feb 27 23:15:17 111 pulseaudio[1529]: ratelimit.c: 425 events suppressed
+Feb 27 23:27:21 111 pulseaudio[1529]: ratelimit.c: 426 events suppressed
+Feb 28 00:08:01 111 kernel: [128807.333552] Skipping EDID probe due to cached edid
+Feb 28 01:02:58 111 pulseaudio[1529]: ratelimit.c: 410 events suppressed
+Feb 28 01:49:47 111 pulseaudio[1529]: ratelimit.c: 652 events suppressed
+Feb 28 01:50:58 111 kernel: [134984.775210] usb 1-3: USB disconnect, address 13
+Feb 28 01:55:55 111 kernel: [135281.192079] usb 4-2: USB disconnect, address 5
+Feb 28 01:56:08 111 kernel: [135293.404111] Skipping EDID probe due to cached edid
+Feb 28 12:37:28 111 kernel: [135294.518462] PM: Syncing filesystems ... done.
+Feb 28 12:37:29 111 kernel: [135294.545177] Freezing user space processes ... (elapsed 0.01 seconds) done.
+Feb 28 12:37:29 111 kernel: [135294.560640] Freezing remaining freezable tasks ... (elapsed 0.01 seconds) done.
+Feb 28 12:37:29 111 kernel: [135294.576167] PM: Preallocating image memory... done (allocated 863959 pages)
+Feb 28 12:37:29 111 kernel: [135368.145101] PM: Allocated 3455836 kbytes in 73.56 seconds (46.97 MB/s)
+Feb 28 12:37:29 111 kernel: [135368.145103] Suspending console(s) (use no_console_suspend to debug)
+Feb 28 12:37:29 111 kernel: [135368.145809] sd 0:0:0:0: [sda] Synchronizing SCSI cache
+Feb 28 12:37:29 111 kernel: [135368.146714] wl 0000:02:00.0: PCI INT A disabled
+Feb 28 12:37:29 111 kernel: [135368.248321] HDA Intel 0000:00:1b.0: PCI INT A disabled
+Feb 28 12:37:29 111 kernel: [135368.264016] PM: freeze of drv:HDA Intel dev:0000:00:1b.0 complete after 117.222 msecs
+Feb 28 12:37:29 111 kernel: [135368.264029] PM: freeze of drv: dev:pci0000:00 complete after 116.948 msecs
+Feb 28 12:37:29 111 kernel: [135368.264037] PM: freeze of devices complete after 118.605 msecs
+Feb 28 12:37:29 111 kernel: [135368.265076] PM: late freeze of devices complete after 1.036 msecs
+Feb 28 12:37:29 111 kernel: [135368.265403] ACPI: Preparing to enter system sleep state S4
+Feb 28 12:37:29 111 kernel: [135368.373301] PM: Saving platform NVS memory
+Feb 28 12:37:29 111 kernel: [135368.382251] PM: Saving platform NVS memory
+Feb 28 12:37:29 111 kernel: [135368.391019] Disabling non-boot CPUs ...
+Feb 28 12:37:29 111 kernel: [135368.392195] CPU 1 is now offline
+Feb 28 12:37:29 111 kernel: [135368.392197] SMP alternatives: switching to UP code
+Feb 28 12:37:29 111 kernel: [135368.399616] PM: Creating hibernation image:
+Feb 28 12:37:29 111 kernel: [135368.400009] PM: Need to copy 132251 pages
+Feb 28 12:37:29 111 kernel: [135368.400009] PM: Restoring platform NVS memory
+Feb 28 12:37:29 111 kernel: [135368.400009] Enabling non-boot CPUs ...
+Feb 28 12:37:29 111 kernel: [135368.400009] SMP alternatives: switching to SMP code
+Feb 28 12:37:29 111 kernel: [135368.406702] Booting Node 0 Processor 1 APIC 0x1
+Feb 28 12:37:29 111 kernel: [135368.399260] Initializing CPU#1
+Feb 28 12:37:29 111 kernel: [135368.520431] CPU1 is up
+Feb 28 12:37:29 111 kernel: [135368.521301] ACPI: Waking up from system sleep state S4
+Feb 28 12:37:29 111 kernel: [135368.727875] PM: early restore of devices complete after 1.843 msecs
+Feb 28 12:37:29 111 kernel: [135368.772467] usb usb3: root hub lost power or was reset
+Feb 28 12:37:29 111 kernel: [135368.772526] usb usb4: root hub lost power or was reset
+Feb 28 12:37:29 111 kernel: [135368.772573] usb usb1: root hub lost power or was reset
+Feb 28 12:37:29 111 kernel: [135368.776485] HDA Intel 0000:00:1b.0: PCI INT A -> GSI 22 (level, low) -> IRQ 22
+Feb 28 12:37:29 111 kernel: [135368.776633] usb usb5: root hub lost power or was reset
+Feb 28 12:37:29 111 kernel: [135368.776690] usb usb6: root hub lost power or was reset
+Feb 28 12:37:29 111 kernel: [135368.776748] usb usb7: root hub lost power or was reset
+Feb 28 12:37:29 111 kernel: [135368.776804] usb usb8: root hub lost power or was reset
+Feb 28 12:37:29 111 kernel: [135368.776844] usb usb2: root hub lost power or was reset
+Feb 28 12:37:29 111 kernel: [135368.780999] wl 0000:02:00.0: PCI INT A -> GSI 16 (level, low) -> IRQ 16
+Feb 28 12:37:29 111 kernel: [135368.801897] sd 0:0:0:0: [sda] Starting disk
+Feb 28 12:37:29 111 kernel: [135368.940536] PM: restore of drv:usb dev:usb4 complete after 142.623 msecs
+Feb 28 12:37:29 111 kernel: [135368.940556] PM: restore of drv:usb dev:usb3 complete after 142.658 msecs
+Feb 28 12:37:29 111 kernel: [135368.940565] PM: restore of drv:hub dev:3-0:1.0 complete after 142.662 msecs
+Feb 28 12:37:29 111 kernel: [135368.940573] PM: restore of drv:hub dev:4-0:1.0 complete after 142.656 msecs
+Feb 28 12:37:29 111 kernel: [135368.944541] PM: restore of drv:usb dev:usb8 complete after 142.728 msecs
+Feb 28 12:37:29 111 kernel: [135368.944558] PM: restore of drv:usb dev:usb7 complete after 142.754 msecs
+Feb 28 12:37:29 111 kernel: [135368.944576] PM: restore of drv:usb dev:usb5 complete after 142.807 msecs
+Feb 28 12:37:29 111 kernel: [135368.944609] PM: restore of drv:hub dev:8-0:1.0 complete after 142.791 msecs
+Feb 28 12:37:29 111 kernel: [135368.944614] PM: restore of drv:hub dev:7-0:1.0 complete after 142.804 msecs
+Feb 28 12:37:29 111 kernel: [135368.944619] PM: restore of drv:hub dev:5-0:1.0 complete after 142.840 msecs
+Feb 28 12:37:29 111 kernel: [135369.032528] PM: restore of drv:usb dev:usb2 complete after 234.635 msecs
+Feb 28 12:37:29 111 kernel: [135369.032554] PM: restore of drv:hub dev:2-0:1.0 complete after 234.658 msecs
+Feb 28 12:37:29 111 kernel: [135369.044531] PM: restore of drv:lis3lv02d dev:HPQ0004:00 complete after 166.683 msecs
+Feb 28 12:37:29 111 kernel: [135369.048530] PM: restore of drv:usb dev:usb6 complete after 246.747 msecs
+Feb 28 12:37:29 111 kernel: [135369.048548] PM: restore of drv:usb dev:usb1 complete after 250.663 msecs
+Feb 28 12:37:29 111 kernel: [135369.048560] PM: restore of drv:hub dev:6-0:1.0 complete after 246.768 msecs
+Feb 28 12:37:29 111 kernel: [135369.048567] PM: restore of drv:hub dev:1-0:1.0 complete after 250.678 msecs
+Feb 28 12:37:29 111 kernel: [135369.116537] ata6: SATA link down (SStatus 0 SControl 300)
+Feb 28 12:37:29 111 kernel: [135369.120537] ata5: SATA link down (SStatus 0 SControl 300)
+Feb 28 12:37:29 111 kernel: [135369.144524] usb 2-4: reset high speed USB device using ehci_hcd and address 2
+Feb 28 12:37:29 111 kernel: [135369.296565] ata2: SATA link up 1.5 Gbps (SStatus 113 SControl 300)
+Feb 28 12:37:29 111 kernel: [135369.304568] ata1: SATA link up 3.0 Gbps (SStatus 123 SControl 300)
+Feb 28 12:37:29 111 kernel: [135369.306835] ata1.00: configured for UDMA/100
+Feb 28 12:37:29 111 kernel: [135369.322913] PM: restore of drv:usb dev:2-4 complete after 521.051 msecs
+Feb 28 12:37:29 111 kernel: [135369.322922] PM: restore of drv:uvcvideo dev:2-4:1.1 complete after 521.032 msecs
+Feb 28 12:37:29 111 kernel: [135369.322929] PM: restore of drv:uvcvideo dev:2-4:1.0 complete after 521.064 msecs
+Feb 28 12:37:29 111 kernel: [135369.322936] PM: restore of drv: dev:ep_83 complete after 266.844 msecs
+Feb 28 12:37:29 111 kernel: [135369.327285] ata2.00: configured for UDMA/100
+Feb 28 12:37:29 111 kernel: [135369.342713] PM: restore of drv:sd dev:0:0:0:0 complete after 540.817 msecs
+Feb 28 12:37:29 111 kernel: [135369.348577] PM: restore of drv:scsi_device dev:0:0:0:0 complete after 544.566 msecs
+Feb 28 12:37:29 111 kernel: [135369.817861] PM: restore of drv:i915 dev:0000:00:02.0 complete after 1045.474 msecs
+Feb 28 12:37:29 111 kernel: [135369.817881] PM: restore of drv:drm dev:controlD64 complete after 469.308 msecs
+Feb 28 12:37:29 111 kernel: [135369.817936] PM: restore of devices complete after 1045.857 msecs
+Feb 28 12:37:29 111 kernel: [135369.818267] Restarting tasks ... done.
+Feb 28 12:37:29 111 kernel: [135369.818682] video LNXVIDEO:00: Restoring backlight state
+Feb 28 12:37:39 111 kernel: [135383.027153] r8169 0000:03:00.0: eth0: link down
+Feb 28 12:37:39 111 kernel: [135383.027339] ADDRCONF(NETDEV_UP): eth0: link is not ready
+Feb 28 12:37:42 111 kernel: [135385.599167] Skipping EDID probe due to cached edid
+Feb 28 12:37:56 111 kernel: [135399.884077] Skipping EDID probe due to cached edid
+Feb 28 12:38:41 111 kernel: [135444.068906] sr 1:0:0:0: CDB: Test Unit Ready: 00 00 00 00 00 00
+Feb 28 12:38:41 111 kernel: [135444.068928] ata2: hard resetting link
+Feb 28 12:38:41 111 kernel: [135444.976535] ata2: SATA link up 1.5 Gbps (SStatus 113 SControl 300)
+Feb 28 12:38:41 111 kernel: [135445.008723] ata2.00: configured for UDMA/100
+Feb 28 12:38:41 111 kernel: [135445.009205] ata2: EH complete
+Feb 28 13:42:17 111 kernel: [139260.738762] lo: Disabled Privacy Extensions
+Feb 28 18:30:08 111 kernel: [139908.052444] PM: Syncing filesystems ... done.
+Feb 28 18:30:09 111 kernel: [139908.075850] Freezing user space processes ... (elapsed 0.01 seconds) done.
+Feb 28 18:30:09 111 kernel: [139908.092069] Freezing remaining freezable tasks ... (elapsed 0.01 seconds) done.
+Feb 28 18:30:09 111 kernel: [139908.108143] PM: Preallocating image memory... done (allocated 863959 pages)
+Feb 28 18:30:09 111 kernel: [139926.744627] PM: Allocated 3455836 kbytes in 18.63 seconds (185.49 MB/s)
+Feb 28 18:30:09 111 kernel: [139926.744630] Suspending console(s) (use no_console_suspend to debug)
+Feb 28 18:30:09 111 kernel: [139926.745314] sd 0:0:0:0: [sda] Synchronizing SCSI cache
+Feb 28 18:30:09 111 kernel: [139926.746287] wl 0000:02:00.0: PCI INT A disabled
+Feb 28 18:30:09 111 kernel: [139926.848322] HDA Intel 0000:00:1b.0: PCI INT A disabled
+Feb 28 18:30:09 111 kernel: [139926.864016] PM: freeze of drv:HDA Intel dev:0000:00:1b.0 complete after 117.494 msecs
+Feb 28 18:30:09 111 kernel: [139926.864028] PM: freeze of drv: dev:pci0000:00 complete after 117.060 msecs
+Feb 28 18:30:09 111 kernel: [139926.864036] PM: freeze of devices complete after 119.102 msecs
+Feb 28 18:30:09 111 kernel: [139926.865074] PM: late freeze of devices complete after 1.034 msecs
+Feb 28 18:30:09 111 kernel: [139926.865394] ACPI: Preparing to enter system sleep state S4
+Feb 28 18:30:09 111 kernel: [139926.973322] PM: Saving platform NVS memory
+Feb 28 18:30:09 111 kernel: [139926.981871] PM: Saving platform NVS memory
+Feb 28 18:30:09 111 kernel: [139926.990259] Disabling non-boot CPUs ...
+Feb 28 18:30:09 111 kernel: [139927.096034] CPU 1 is now offline
+Feb 28 18:30:09 111 kernel: [139927.096037] SMP alternatives: switching to UP code
+Feb 28 18:30:09 111 kernel: [139927.103424] PM: Creating hibernation image:
+Feb 28 18:30:09 111 kernel: [139927.104008] PM: Need to copy 132219 pages
+Feb 28 18:30:09 111 kernel: [139927.104008] PM: Restoring platform NVS memory
+Feb 28 18:30:10 111 kernel: [139927.104008] Enabling non-boot CPUs ...
+Feb 28 18:30:10 111 kernel: [139927.104008] SMP alternatives: switching to SMP code
+Feb 28 18:30:10 111 kernel: [139927.110451] Booting Node 0 Processor 1 APIC 0x1
+Feb 28 18:30:10 111 kernel: [139927.103088] Initializing CPU#1
+Feb 28 18:30:10 111 kernel: [139927.216442] CPU1 is up
+Feb 28 18:30:10 111 kernel: [139927.217271] ACPI: Waking up from system sleep state S4
+Feb 28 18:30:10 111 kernel: [139927.439867] PM: early restore of devices complete after 1.838 msecs
+Feb 28 18:30:10 111 kernel: [139927.484497] usb usb3: root hub lost power or was reset
+Feb 28 18:30:10 111 kernel: [139927.484558] usb usb4: root hub lost power or was reset
+Feb 28 18:30:10 111 kernel: [139927.484604] usb usb1: root hub lost power or was reset
+Feb 28 18:30:10 111 kernel: [139927.488508] HDA Intel 0000:00:1b.0: PCI INT A -> GSI 22 (level, low) -> IRQ 22
+Feb 28 18:30:10 111 kernel: [139927.488651] usb usb5: root hub lost power or was reset
+Feb 28 18:30:10 111 kernel: [139927.488709] usb usb6: root hub lost power or was reset
+Feb 28 18:30:10 111 kernel: [139927.488766] usb usb7: root hub lost power or was reset
+Feb 28 18:30:10 111 kernel: [139927.488823] usb usb8: root hub lost power or was reset
+Feb 28 18:30:10 111 kernel: [139927.488863] usb usb2: root hub lost power or was reset
+Feb 28 18:30:11 111 kernel: [139927.493023] wl 0000:02:00.0: PCI INT A -> GSI 16 (level, low) -> IRQ 16
+Feb 28 18:30:11 111 kernel: [139927.516015] sd 0:0:0:0: [sda] Starting disk
+Feb 28 18:30:11 111 kernel: [139927.652543] PM: restore of drv:usb dev:usb3 complete after 142.540 msecs
+Feb 28 18:30:11 111 kernel: [139927.652577] PM: restore of drv:usb dev:usb5 complete after 142.562 msecs
+Feb 28 18:30:11 111 kernel: [139927.652585] PM: restore of drv:hub dev:5-0:1.0 complete after 138.788 msecs
+Feb 28 18:30:11 111 kernel: [139927.652593] PM: restore of drv:hub dev:3-0:1.0 complete after 142.586 msecs
+Feb 28 18:30:11 111 kernel: [139927.656554] PM: restore of drv:usb dev:usb7 complete after 142.682 msecs
+Feb 28 18:30:11 111 kernel: [139927.656571] PM: restore of drv:usb dev:usb8 complete after 142.690 msecs
+Feb 28 18:30:11 111 kernel: [139927.656577] PM: restore of drv:hub dev:7-0:1.0 complete after 142.699 msecs
+Feb 28 18:30:11 111 kernel: [139927.656581] PM: restore of drv:hub dev:8-0:1.0 complete after 142.695 msecs
+Feb 28 18:30:11 111 kernel: [139927.708528] PM: restore of drv:lis3lv02d dev:HPQ0004:00 complete after 168.323 msecs
+Feb 28 18:30:11 111 kernel: [139927.744530] PM: restore of drv:usb dev:usb1 complete after 234.598 msecs
+Feb 28 18:30:11 111 kernel: [139927.744538] PM: restore of drv:usb dev:usb2 complete after 234.542 msecs
+Feb 28 18:30:11 111 kernel: [139927.744566] PM: restore of drv:hub dev:2-0:1.0 complete after 234.566 msecs
+Feb 28 18:30:11 111 kernel: [139927.744571] PM: restore of drv:hub dev:1-0:1.0 complete after 234.634 msecs
+Feb 28 18:30:11 111 kernel: [139927.756529] PM: restore of drv:usb dev:usb4 complete after 246.520 msecs
+Feb 28 18:30:11 111 kernel: [139927.756543] PM: restore of drv:hub dev:4-0:1.0 complete after 246.529 msecs
+Feb 28 18:30:11 111 kernel: [139927.760538] PM: restore of drv:usb dev:usb6 complete after 246.730 msecs
+Feb 28 18:30:11 111 kernel: [139927.760548] PM: restore of drv:hub dev:6-0:1.0 complete after 246.680 msecs
+Feb 28 18:30:11 111 kernel: [139927.836538] ata5: SATA link down (SStatus 0 SControl 300)
+Feb 28 18:30:11 111 kernel: [139927.840537] ata6: SATA link down (SStatus 0 SControl 300)
+Feb 28 18:30:11 111 kernel: [139927.856537] usb 2-4: reset high speed USB device using ehci_hcd and address 2
+Feb 28 18:30:11 111 kernel: [139928.000566] ata1: SATA link up 3.0 Gbps (SStatus 123 SControl 300)
+Feb 28 18:30:11 111 kernel: [139928.002522] ata1.00: configured for UDMA/100
+Feb 28 18:30:11 111 kernel: [139928.004565] ata2: SATA link up 1.5 Gbps (SStatus 113 SControl 300)
+Feb 28 18:30:11 111 kernel: [139928.034938] PM: restore of drv:usb dev:2-4 complete after 521.016 msecs
+Feb 28 18:30:11 111 kernel: [139928.034947] PM: restore of drv:uvcvideo dev:2-4:1.1 complete after 521.019 msecs
+Feb 28 18:30:11 111 kernel: [139928.034954] PM: restore of drv:uvcvideo dev:2-4:1.0 complete after 521.029 msecs
+Feb 28 18:30:11 111 kernel: [139928.034961] PM: restore of drv: dev:ep_83 complete after 267.705 msecs
+Feb 28 18:30:11 111 kernel: [139928.035331] ata2.00: configured for UDMA/100
+Feb 28 18:30:11 111 kernel: [139928.035565] PM: restore of drv:sd dev:0:0:0:0 complete after 519.547 msecs
+Feb 28 18:30:11 111 kernel: [139928.041437] PM: restore of drv:scsi_device dev:0:0:0:0 complete after 525.380 msecs
+Feb 28 18:30:11 111 kernel: [139928.523744] PM: restore of drv:i915 dev:0000:00:02.0 complete after 1039.324 msecs
+Feb 28 18:30:11 111 kernel: [139928.523756] PM: restore of drv:drm dev:controlD64 complete after 482.323 msecs
+Feb 28 18:30:11 111 kernel: [139928.523812] PM: restore of devices complete after 1039.673 msecs
+Feb 28 18:30:11 111 kernel: [139928.524004] Restarting tasks ... done.
+Feb 28 18:30:11 111 kernel: [139928.526324] video LNXVIDEO:00: Restoring backlight state
+Feb 28 18:30:11 111 kernel: [139928.636021] usb 1-3: new high speed USB device using ehci_hcd and address 14
+Feb 28 18:30:12 111 kernel: [139935.482468] ipheth 1-3:4.2: Apple iPhone USB Ethernet device attached
+Feb 28 18:30:20 111 kernel: [139943.621221] Skipping EDID probe due to cached edid
+Feb 28 18:30:30 111 kernel: [139953.178996] r8169 0000:03:00.0: eth0: link down
+Feb 28 18:30:30 111 kernel: [139953.179323] ADDRCONF(NETDEV_UP): eth0: link is not ready
+Feb 28 18:56:38 111 rsyslogd: [origin software="rsyslogd" swVersion="4.2.0" x-pid="939" x-info="http://www.rsyslog.com"] rsyslogd was HUPed, type 'lightweight'.
+Feb 28 19:34:01 111 kernel: [143764.526371] usb 1-3: USB disconnect, address 14
+Feb 28 19:34:01 111 kernel: [143764.544680] ipheth 1-3:4.2: Apple iPhone USB Ethernet now disconnected
+Mar  1 09:19:20 111 kernel: [143821.928484] PM: Syncing filesystems ... done.
+Mar  1 09:19:23 111 kernel: [143822.040457] Freezing user space processes ... (elapsed 0.01 seconds) done.
+Mar  1 09:19:23 111 kernel: [143822.056125] Freezing remaining freezable tasks ... (elapsed 0.01 seconds) done.
+Mar  1 09:19:23 111 kernel: [143822.072141] PM: Preallocating image memory... done (allocated 863967 pages)
+Mar  1 09:19:23 111 kernel: [143832.911245] PM: Allocated 3455868 kbytes in 10.83 seconds (319.10 MB/s)
+Mar  1 09:19:23 111 kernel: [143832.911248] Suspending console(s) (use no_console_suspend to debug)
+Mar  1 09:19:23 111 kernel: [143832.911945] sd 0:0:0:0: [sda] Synchronizing SCSI cache
+Mar  1 09:19:23 111 kernel: [143832.912906] wl 0000:02:00.0: PCI INT A disabled
+Mar  1 09:19:23 111 kernel: [143833.016328] HDA Intel 0000:00:1b.0: PCI INT A disabled
+Mar  1 09:19:23 111 kernel: [143833.032016] PM: freeze of drv:HDA Intel dev:0000:00:1b.0 complete after 119.031 msecs
+Mar  1 09:19:23 111 kernel: [143833.032029] PM: freeze of drv: dev:pci0000:00 complete after 118.714 msecs
+Mar  1 09:19:23 111 kernel: [143833.032037] PM: freeze of devices complete after 120.457 msecs
+Mar  1 09:19:23 111 kernel: [143833.033065] PM: late freeze of devices complete after 1.026 msecs
+Mar  1 09:19:23 111 kernel: [143833.033381] ACPI: Preparing to enter system sleep state S4
+Mar  1 09:19:23 111 kernel: [143833.141301] PM: Saving platform NVS memory
+Mar  1 09:19:23 111 kernel: [143833.148683] PM: Saving platform NVS memory
+Mar  1 09:19:23 111 kernel: [143833.155882] Disabling non-boot CPUs ...
+Mar  1 09:19:23 111 kernel: [143833.157065] CPU 1 is now offline
+Mar  1 09:19:23 111 kernel: [143833.157068] SMP alternatives: switching to UP code
+Mar  1 09:19:23 111 kernel: [143833.164465] PM: Creating hibernation image:
+Mar  1 09:19:23 111 kernel: [143833.168004] PM: Need to copy 132157 pages
+Mar  1 09:19:23 111 kernel: [143833.168004] PM: Restoring platform NVS memory
+Mar  1 09:19:23 111 kernel: [143833.168004] Enabling non-boot CPUs ...
+Mar  1 09:19:23 111 kernel: [143833.168004] SMP alternatives: switching to SMP code
+Mar  1 09:19:23 111 kernel: [143833.171467] Booting Node 0 Processor 1 APIC 0x1
+Mar  1 09:19:23 111 kernel: [143833.164120] Initializing CPU#1
+Mar  1 09:19:23 111 kernel: [143833.284439] CPU1 is up
+Mar  1 09:19:23 111 kernel: [143833.285198] ACPI: Waking up from system sleep state S4
+Mar  1 09:19:23 111 kernel: [143833.491871] PM: early restore of devices complete after 1.843 msecs
+Mar  1 09:19:23 111 kernel: [143833.536192] usb usb3: root hub lost power or was reset
+Mar  1 09:19:23 111 kernel: [143833.536251] usb usb4: root hub lost power or was reset
+Mar  1 09:19:23 111 kernel: [143833.536298] usb usb1: root hub lost power or was reset
+Mar  1 09:19:23 111 kernel: [143833.540209] HDA Intel 0000:00:1b.0: PCI INT A -> GSI 22 (level, low) -> IRQ 22
+Mar  1 09:19:23 111 kernel: [143833.540353] usb usb5: root hub lost power or was reset
+Mar  1 09:19:23 111 kernel: [143833.540410] usb usb6: root hub lost power or was reset
+Mar  1 09:19:23 111 kernel: [143833.540467] usb usb7: root hub lost power or was reset
+Mar  1 09:19:23 111 kernel: [143833.540524] usb usb8: root hub lost power or was reset
+Mar  1 09:19:23 111 kernel: [143833.540565] usb usb2: root hub lost power or was reset
+Mar  1 09:19:23 111 kernel: [143833.544727] wl 0000:02:00.0: PCI INT A -> GSI 16 (level, low) -> IRQ 16
+Mar  1 09:19:23 111 kernel: [143833.565686] sd 0:0:0:0: [sda] Starting disk
+Mar  1 09:19:23 111 kernel: [143833.692539] PM: restore of drv:usb dev:usb1 complete after 130.702 msecs
+Mar  1 09:19:23 111 kernel: [143833.692545] PM: restore of drv:hub dev:1-0:1.0 complete after 127.203 msecs
+Mar  1 09:19:23 111 kernel: [143833.708541] PM: restore of drv:usb dev:usb5 complete after 143.060 msecs
+Mar  1 09:19:23 111 kernel: [143833.708547] PM: restore of drv:hub dev:5-0:1.0 complete after 143.049 msecs
+Mar  1 09:19:23 111 kernel: [143833.708577] PM: restore of drv:usb dev:usb7 complete after 143.032 msecs
+Mar  1 09:19:23 111 kernel: [143833.708582] PM: restore of drv:hub dev:7-0:1.0 complete after 143.019 msecs
+Mar  1 09:19:23 111 kernel: [143833.708598] PM: restore of drv:usb dev:usb4 complete after 143.156 msecs
+Mar  1 09:19:23 111 kernel: [143833.708603] PM: restore of drv:hub dev:4-0:1.0 complete after 143.138 msecs
+Mar  1 09:19:23 111 kernel: [143833.708620] PM: restore of drv:usb dev:usb8 complete after 143.044 msecs
+Mar  1 09:19:23 111 kernel: [143833.708625] PM: restore of drv:hub dev:8-0:1.0 complete after 143.031 msecs
+Mar  1 09:19:23 111 kernel: [143833.708641] PM: restore of drv:usb dev:usb3 complete after 143.275 msecs
+Mar  1 09:19:23 111 kernel: [143833.708646] PM: restore of drv:hub dev:3-0:1.0 complete after 143.274 msecs
+Mar  1 09:19:23 111 kernel: [143833.800532] PM: restore of drv:usb dev:usb2 complete after 235.179 msecs
+Mar  1 09:19:23 111 kernel: [143833.800539] PM: restore of drv:hub dev:2-0:1.0 complete after 235.177 msecs
+Mar  1 09:19:23 111 kernel: [143833.812532] PM: restore of drv:usb dev:usb6 complete after 247.019 msecs
+Mar  1 09:19:23 111 kernel: [143833.812538] PM: restore of drv:hub dev:6-0:1.0 complete after 247.008 msecs
+Mar  1 09:19:23 111 kernel: [143833.884539] ata6: SATA link down (SStatus 0 SControl 300)
+Mar  1 09:19:23 111 kernel: [143833.884560] ata5: SATA link down (SStatus 0 SControl 300)
+Mar  1 09:19:23 111 kernel: [143833.912531] usb 2-4: reset high speed USB device using ehci_hcd and address 2
+Mar  1 09:19:23 111 kernel: [143833.996748] PM: restore of drv:button dev:PNP0C0D:00 complete after 423.634 msecs
+Mar  1 09:19:23 111 kernel: [143834.064567] ata2: SATA link up 1.5 Gbps (SStatus 113 SControl 300)
+Mar  1 09:19:23 111 kernel: [143834.072529] ata1: SATA link up 3.0 Gbps (SStatus 123 SControl 300)
+Mar  1 09:19:23 111 kernel: [143834.074259] ata1.00: configured for UDMA/100
+Mar  1 09:19:23 111 kernel: [143834.090888] PM: restore of drv:usb dev:2-4 complete after 525.248 msecs
+Mar  1 09:19:23 111 kernel: [143834.090897] PM: restore of drv:uvcvideo dev:2-4:1.0 complete after 525.243 msecs
+Mar  1 09:19:23 111 kernel: [143834.090904] PM: restore of drv:uvcvideo dev:2-4:1.1 complete after 525.236 msecs
+Mar  1 09:19:23 111 kernel: [143834.095412] ata2.00: configured for UDMA/100
+Mar  1 09:19:23 111 kernel: [143834.110992] PM: restore of drv:sd dev:0:0:0:0 complete after 545.307 msecs
+Mar  1 09:19:23 111 kernel: [143834.110999] PM: restore of drv:scsi_device dev:0:0:0:0 complete after 545.275 msecs
+Mar  1 09:19:23 111 kernel: [143834.196026] PM: restore of drv:lis3lv02d dev:HPQ0004:00 complete after 174.953 msecs
+Mar  1 09:19:23 111 kernel: [143834.589246] PM: restore of drv:i915 dev:0000:00:02.0 complete after 1053.131 msecs
+Mar  1 09:19:23 111 kernel: [143834.589259] PM: restore of drv:drm dev:controlD64 complete after 379.349 msecs
+Mar  1 09:19:23 111 kernel: [143834.589316] PM: restore of devices complete after 1053.402 msecs
+Mar  1 09:19:26 111 kernel: [143834.589499] Restarting tasks ... done.
+Mar  1 09:19:26 111 kernel: [143834.591916] video LNXVIDEO:00: Restoring backlight state
+Mar  1 09:19:34 111 kernel: [143850.838890] Skipping EDID probe due to cached edid
+Mar  1 09:19:39 111 kernel: [143856.163936] r8169 0000:03:00.0: eth0: link down
+Mar  1 09:19:39 111 kernel: [143856.164223] ADDRCONF(NETDEV_UP): eth0: link is not ready
+Mar  1 09:20:19 111 kernel: [143895.387817] sr 1:0:0:0: CDB: Test Unit Ready: 00 00 00 00 00 00
+Mar  1 09:20:19 111 kernel: [143895.387855] ata2: hard resetting link
+Mar  1 09:20:19 111 kernel: [143896.280058] ata2: SATA link up 1.5 Gbps (SStatus 113 SControl 300)
+Mar  1 09:20:19 111 kernel: [143896.310822] ata2.00: configured for UDMA/100
+Mar  1 09:20:19 111 kernel: [143896.311284] ata2: EH complete
+Mar  1 10:21:30 111 kernel: [147567.344991] lo: Disabled Privacy Extensions
+Mar  1 10:41:23 111 kernel: [148759.432555] Skipping EDID probe due to cached edid
+Mar  1 11:08:44 111 kernel: [150400.584558] Skipping EDID probe due to cached edid
+Mar  1 11:12:55 111 kernel: [150652.328089] Skipping EDID probe due to cached edid
+Mar  1 11:32:38 111 kernel: [151835.000544] Skipping EDID probe due to cached edid
+Mar  1 12:53:07 111 kernel: imklog 4.2.0, log source = /proc/kmsg started.
+Mar  1 12:53:07 111 rsyslogd: [origin software="rsyslogd" swVersion="4.2.0" x-pid="935" x-info="http://www.rsyslog.com"] (re)start
+Mar  1 12:53:07 111 rsyslogd: rsyslogd's groupid changed to 103
+Mar  1 12:53:07 111 rsyslogd: rsyslogd's userid changed to 101
+Mar  1 12:53:07 111 kernel: [    0.000000] Initializing cgroup subsys cpuset
+Mar  1 12:53:07 111 kernel: [    0.000000] Initializing cgroup subsys cpu
+Mar  1 12:53:07 111 kernel: [    0.000000] Linux version 2.6.35-25-generic-pae (buildd@palmer) (gcc version 4.4.5 (Ubuntu/Linaro 4.4.4-14ubuntu5) ) #44-Ubuntu SMP Fri Jan 21 19:01:46 UTC 2011 (Ubuntu 2.6.35-25.44-generic-pae 2.6.35.10)
+Mar  1 12:53:07 111 kernel: [    0.000000] BIOS-provided physical RAM map:
+Mar  1 12:53:07 111 kernel: [    0.000000]  BIOS-e820: 0000000000000000 - 000000000009e000 (usable)
+Mar  1 12:53:07 111 kernel: [    0.000000]  BIOS-e820: 000000000009e000 - 00000000000a0000 (reserved)
+Mar  1 12:53:07 111 kernel: [    0.000000]  BIOS-e820: 00000000000e0000 - 0000000000100000 (reserved)
+Mar  1 12:53:07 111 kernel: [    0.000000]  BIOS-e820: 0000000000100000 - 00000000b9ea8000 (usable)
+Mar  1 12:53:07 111 kernel: [    0.000000]  BIOS-e820: 00000000b9ea8000 - 00000000b9ebf000 (reserved)
+Mar  1 12:53:07 111 kernel: [    0.000000]  BIOS-e820: 00000000b9ebf000 - 00000000b9f81000 (usable)
+Mar  1 12:53:07 111 kernel: [    0.000000]  BIOS-e820: 00000000b9f81000 - 00000000b9fbf000 (ACPI NVS)
+Mar  1 12:53:07 111 kernel: [    0.000000]  BIOS-e820: 00000000b9fbf000 - 00000000b9fdf000 (usable)
+Mar  1 12:53:07 111 kernel: [    0.000000]  BIOS-e820: 00000000b9fdf000 - 00000000b9ff7000 (ACPI data)
+Mar  1 12:53:07 111 kernel: [    0.000000]  BIOS-e820: 00000000b9ff7000 - 00000000ba000000 (usable)
+Mar  1 12:53:07 111 kernel: [    0.000000]  BIOS-e820: 00000000ba000000 - 00000000c0000000 (reserved)
+Mar  1 12:53:07 111 kernel: [    0.000000]  BIOS-e820: 00000000f8000000 - 00000000fc000000 (reserved)
+Mar  1 12:53:07 111 kernel: [    0.000000]  BIOS-e820: 00000000fec00000 - 00000000fec01000 (reserved)
+Mar  1 12:53:07 111 kernel: [    0.000000]  BIOS-e820: 00000000fed10000 - 00000000fed14000 (reserved)
+Mar  1 12:53:07 111 kernel: [    0.000000]  BIOS-e820: 00000000fed18000 - 00000000fed1a000 (reserved)
+Mar  1 12:53:07 111 kernel: [    0.000000]  BIOS-e820: 00000000fed1c000 - 00000000fed20000 (reserved)
+Mar  1 12:53:07 111 kernel: [    0.000000]  BIOS-e820: 00000000fee00000 - 00000000fee01000 (reserved)
+Mar  1 12:53:07 111 kernel: [    0.000000]  BIOS-e820: 00000000ffe00000 - 0000000100000000 (reserved)
+Mar  1 12:53:07 111 kernel: [    0.000000]  BIOS-e820: 0000000100000000 - 0000000140000000 (usable)
+Mar  1 12:53:07 111 kernel: [    0.000000] NX (Execute Disable) protection: active
+Mar  1 12:53:07 111 kernel: [    0.000000] DMI 2.4 present.
+Mar  1 12:53:07 111 kernel: [    0.000000] last_pfn = 0x140000 max_arch_pfn = 0x1000000
+Mar  1 12:53:07 111 kernel: [    0.000000] x86 PAT enabled: cpu 0, old 0x7040600070406, new 0x7010600070106
+Mar  1 12:53:07 111 kernel: [    0.000000] Scanning 1 areas for low memory corruption
+Mar  1 12:53:07 111 kernel: [    0.000000] modified physical RAM map:
+Mar  1 12:53:07 111 kernel: [    0.000000]  modified: 0000000000000000 - 0000000000001000 (reserved)
+Mar  1 12:53:07 111 kernel: [    0.000000]  modified: 0000000000001000 - 0000000000002000 (usable)
+Mar  1 12:53:07 111 kernel: [    0.000000]  modified: 0000000000002000 - 0000000000010000 (reserved)
+Mar  1 12:53:07 111 kernel: [    0.000000]  modified: 0000000000010000 - 000000000009e000 (usable)
+Mar  1 12:53:07 111 kernel: [    0.000000]  modified: 000000000009e000 - 00000000000a0000 (reserved)
+Mar  1 12:53:07 111 kernel: [    0.000000]  modified: 00000000000e0000 - 0000000000100000 (reserved)
+Mar  1 12:53:07 111 kernel: [    0.000000]  modified: 0000000000100000 - 00000000b9ea8000 (usable)
+Mar  1 12:53:07 111 kernel: [    0.000000]  modified: 00000000b9ea8000 - 00000000b9ebf000 (reserved)
+Mar  1 12:53:07 111 kernel: [    0.000000]  modified: 00000000b9ebf000 - 00000000b9f81000 (usable)
+Mar  1 12:53:07 111 kernel: [    0.000000]  modified: 00000000b9f81000 - 00000000b9fbf000 (ACPI NVS)
+Mar  1 12:53:07 111 kernel: [    0.000000]  modified: 00000000b9fbf000 - 00000000b9fdf000 (usable)
+Mar  1 12:53:07 111 kernel: [    0.000000]  modified: 00000000b9fdf000 - 00000000b9ff7000 (ACPI data)
+Mar  1 12:53:07 111 kernel: [    0.000000]  modified: 00000000b9ff7000 - 00000000ba000000 (usable)
+Mar  1 12:53:07 111 kernel: [    0.000000]  modified: 00000000ba000000 - 00000000c0000000 (reserved)
+Mar  1 12:53:07 111 kernel: [    0.000000]  modified: 00000000f8000000 - 00000000fc000000 (reserved)
+Mar  1 12:53:07 111 kernel: [    0.000000]  modified: 00000000fec00000 - 00000000fec01000 (reserved)
+Mar  1 12:53:07 111 kernel: [    0.000000]  modified: 00000000fed10000 - 00000000fed14000 (reserved)
+Mar  1 12:53:07 111 kernel: [    0.000000]  modified: 00000000fed18000 - 00000000fed1a000 (reserved)
+Mar  1 12:53:07 111 kernel: [    0.000000]  modified: 00000000fed1c000 - 00000000fed20000 (reserved)
+Mar  1 12:53:07 111 kernel: [    0.000000]  modified: 00000000fee00000 - 00000000fee01000 (reserved)
+Mar  1 12:53:07 111 kernel: [    0.000000]  modified: 00000000ffe00000 - 0000000100000000 (reserved)
+Mar  1 12:53:07 111 kernel: [    0.000000]  modified: 0000000100000000 - 0000000140000000 (usable)
+Mar  1 12:53:07 111 kernel: [    0.000000] init_memory_mapping: 0000000000000000-0000000037bfe000
+Mar  1 12:53:07 111 kernel: [    0.000000] RAMDISK: 375b6000 - 37ff0000
+Mar  1 12:53:07 111 kernel: [    0.000000] Allocated new RAMDISK: 00a04000 - 0143d01e
+Mar  1 12:53:07 111 kernel: [    0.000000] Move RAMDISK from 00000000375b6000 - 0000000037fef01d to 00a04000 - 0143d01d
+Mar  1 12:53:07 111 kernel: [    0.000000] ACPI: RSDP 000fe020 00024 (v02 HPQOEM)
+Mar  1 12:53:07 111 kernel: [    0.000000] ACPI: XSDT b9ff6120 0006C (v01 HPQOEM SLIC-MPC 00000001      01000013)
+Mar  1 12:53:07 111 kernel: [    0.000000] ACPI: FACP b9ff4000 000F4 (v04 HPQOEM SLIC-MPC 00000001 MSFT 01000013)
+Mar  1 12:53:07 111 kernel: [    0.000000] ACPI: DSDT b9fe2000 0D37A (v01 HPQOEM SLIC-MPC 00000001 MSFT 01000013)
+Mar  1 12:53:07 111 kernel: [    0.000000] ACPI: FACS b9f8d000 00040
+Mar  1 12:53:07 111 kernel: [    0.000000] ACPI: DMAR b9ff5000 000B8 (v01               ? 00000001      00000000)
+Mar  1 12:53:07 111 kernel: [    0.000000] ACPI: HPET b9ff3000 00038 (v01 HPQOEM SLIC-MPC 00000001 MSFT 01000013)
+Mar  1 12:53:07 111 kernel: [    0.000000] ACPI: APIC b9ff2000 0006C (v02 HPQOEM SLIC-MPC 00000001 MSFT 01000013)
+Mar  1 12:53:07 111 kernel: [    0.000000] ACPI: MCFG b9ff1000 0003C (v01 HPQOEM SLIC-MPC 00000001 MSFT 01000013)
+Mar  1 12:53:07 111 kernel: [    0.000000] ACPI: ASF! b9ff0000 000A5 (v32 HPQOEM SLIC-MPC 00000001 MSFT 01000013)
+Mar  1 12:53:07 111 kernel: [    0.000000] ACPI: SLIC b9fe1000 00176 (v01 HPQOEM SLIC-MPC 06040000  LTP 00000001)
+Mar  1 12:53:07 111 kernel: [    0.000000] ACPI: BOOT b9fe0000 00028 (v01 HPQOEM SLIC-MPC 00000001 MSFT 01000013)
+Mar  1 12:53:07 111 kernel: [    0.000000] ACPI: SSDT b9fdf000 00655 (v01  PmRef    CpuPm 00003000 INTL 20051117)
+Mar  1 12:53:07 111 kernel: [    0.000000] 4228MB HIGHMEM available.
+Mar  1 12:53:07 111 kernel: [    0.000000] 891MB LOWMEM available.
+Mar  1 12:53:07 111 kernel: [    0.000000]   mapped low ram: 0 - 37bfe000
+Mar  1 12:53:07 111 kernel: [    0.000000]   low ram: 0 - 37bfe000
+Mar  1 12:53:07 111 kernel: [    0.000000] Zone PFN ranges:
+Mar  1 12:53:07 111 kernel: [    0.000000]   DMA      0x00000001 -> 0x00001000
+Mar  1 12:53:07 111 kernel: [    0.000000]   Normal   0x00001000 -> 0x00037bfe
+Mar  1 12:53:07 111 kernel: [    0.000000]   HighMem  0x00037bfe -> 0x00140000
+Mar  1 12:53:07 111 kernel: [    0.000000] Movable zone start PFN for each node
+Mar  1 12:53:07 111 kernel: [    0.000000] early_node_map[7] active PFN ranges
+Mar  1 12:53:07 111 kernel: [    0.000000]     0: 0x00000001 -> 0x00000002
+Mar  1 12:53:07 111 kernel: [    0.000000]     0: 0x00000010 -> 0x0000009e
+Mar  1 12:53:07 111 kernel: [    0.000000]     0: 0x00000100 -> 0x000b9ea8
+Mar  1 12:53:07 111 kernel: [    0.000000]     0: 0x000b9ebf -> 0x000b9f81
+Mar  1 12:53:07 111 kernel: [    0.000000]     0: 0x000b9fbf -> 0x000b9fdf
+Mar  1 12:53:07 111 kernel: [    0.000000]     0: 0x000b9ff7 -> 0x000ba000
+Mar  1 12:53:07 111 kernel: [    0.000000]     0: 0x00100000 -> 0x00140000
+Mar  1 12:53:07 111 kernel: [    0.000000] Using APIC driver default
+Mar  1 12:53:07 111 kernel: [    0.000000] ACPI: PM-Timer IO Port: 0x408
+Mar  1 12:53:07 111 kernel: [    0.000000] ACPI: LAPIC (acpi_id[0x01] lapic_id[0x00] enabled)
+Mar  1 12:53:07 111 kernel: [    0.000000] ACPI: LAPIC (acpi_id[0x02] lapic_id[0x01] enabled)
+Mar  1 12:53:07 111 kernel: [    0.000000] ACPI: LAPIC (acpi_id[0x03] lapic_id[0x00] disabled)
+Mar  1 12:53:07 111 kernel: [    0.000000] ACPI: LAPIC (acpi_id[0x04] lapic_id[0x00] disabled)
+Mar  1 12:53:07 111 kernel: [    0.000000] ACPI: IOAPIC (id[0x04] address[0xfec00000] gsi_base[0])
+Mar  1 12:53:07 111 kernel: [    0.000000] IOAPIC[0]: apic_id 4, version 32, address 0xfec00000, GSI 0-23
+Mar  1 12:53:07 111 kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+Mar  1 12:53:07 111 kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+Mar  1 12:53:07 111 kernel: [    0.000000] Using ACPI (MADT) for SMP configuration information
+Mar  1 12:53:07 111 kernel: [    0.000000] ACPI: HPET id: 0x8086a201 base: 0xfed00000
+Mar  1 12:53:07 111 kernel: [    0.000000] SMP: Allowing 4 CPUs, 2 hotplug CPUs
+Mar  1 12:53:07 111 kernel: [    0.000000] PM: Registered nosave memory: 0000000000002000 - 0000000000010000
+Mar  1 12:53:07 111 kernel: [    0.000000] PM: Registered nosave memory: 000000000009e000 - 00000000000a0000
+Mar  1 12:53:07 111 kernel: [    0.000000] PM: Registered nosave memory: 00000000000a0000 - 00000000000e0000
+Mar  1 12:53:07 111 kernel: [    0.000000] PM: Registered nosave memory: 00000000000e0000 - 0000000000100000
+Mar  1 12:53:07 111 kernel: [    0.000000] Allocating PCI resources starting at c0000000 (gap: c0000000:38000000)
+Mar  1 12:53:07 111 kernel: [    0.000000] Booting paravirtualized kernel on bare hardware
+Mar  1 12:53:07 111 kernel: [    0.000000] setup_percpu: NR_CPUS:8 nr_cpumask_bits:8 nr_cpu_ids:4 nr_node_ids:1
+Mar  1 12:53:07 111 kernel: [    0.000000] PERCPU: Embedded 15 pages/cpu @c3e00000 s39872 r0 d21568 u524288
+Mar  1 12:53:07 111 kernel: [    0.000000] pcpu-alloc: s39872 r0 d21568 u524288 alloc=1*2097152
+Mar  1 12:53:07 111 kernel: [    0.000000] pcpu-alloc: [0] 0 1 2 3 
+Mar  1 12:53:07 111 kernel: [    0.000000] Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 1013537
+Mar  1 12:53:07 111 kernel: [    0.000000] Kernel command line: BOOT_IMAGE=/boot/vmlinuz-2.6.35-25-generic-pae root=UUID=b54517d7-4484-4a87-8c05-37b6060e6ad2 ro quiet splash
+Mar  1 12:53:07 111 kernel: [    0.000000] PID hash table entries: 4096 (order: 2, 16384 bytes)
+Mar  1 12:53:07 111 kernel: [    0.000000] Dentry cache hash table entries: 131072 (order: 7, 524288 bytes)
+Mar  1 12:53:07 111 kernel: [    0.000000] Inode-cache hash table entries: 65536 (order: 6, 262144 bytes)
+Mar  1 12:53:07 111 kernel: [    0.000000] Enabling fast FPU save and restore... done.
+Mar  1 12:53:07 111 kernel: [    0.000000] Enabling unmasked SIMD FPU exception support... done.
+Mar  1 12:53:07 111 kernel: [    0.000000] Initializing CPU#0
+Mar  1 12:53:07 111 kernel: [    0.000000] xsave/xrstor: enabled xstate_bv 0x3, cntxt size 0x240
+Mar  1 12:53:07 111 kernel: [    0.000000] allocated 26214380 bytes of page_cgroup
+Mar  1 12:53:07 111 kernel: [    0.000000] please try 'cgroup_disable=memory' option if you don't want memory cgroups
+Mar  1 12:53:07 111 kernel: [    0.000000] Subtract (58 early reservations)
+Mar  1 12:53:07 111 kernel: [    0.000000]   #1 [0000001000 - 0000002000]   EX TRAMPOLINE
+Mar  1 12:53:07 111 kernel: [    0.000000]   #2 [0000100000 - 00009fb65c]   TEXT DATA BSS
+Mar  1 12:53:07 111 kernel: [    0.000000]   #3 [000009e000 - 0000100000]   BIOS reserved
+Mar  1 12:53:07 111 kernel: [    0.000000]   #4 [00009fc000 - 0000a03194]             BRK
+Mar  1 12:53:07 111 kernel: [    0.000000]   #5 [0000010000 - 0000011000]      TRAMPOLINE
+Mar  1 12:53:07 111 kernel: [    0.000000]   #6 [0000011000 - 0000015000]     ACPI WAKEUP
+Mar  1 12:53:07 111 kernel: [    0.000000]   #7 [0000015000 - 0000016000]         PGTABLE
+Mar  1 12:53:07 111 kernel: [    0.000000]   #8 [0000a04000 - 000143e000]     NEW RAMDISK
+Mar  1 12:53:07 111 kernel: [    0.000000]   #9 [000143e000 - 000143f000]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #10 [000143f000 - 0003c3f000]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #11 [0003c3f000 - 0003c3f004]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #12 [0003c3f040 - 0003c3f100]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #13 [0003c3f100 - 0003c3f1a8]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #14 [0003c3f1c0 - 0003c421c0]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #15 [0003c421c0 - 0003c424dc]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #16 [0003c42500 - 0003c4e500]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #17 [0003c4e500 - 0003c4e52d]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #18 [0003c4e540 - 0003c4e56f]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #19 [0003c4e580 - 0003c4e898]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #20 [0003c4e8c0 - 0003c4e900]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #21 [0003c4e900 - 0003c4e940]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #22 [0003c4e940 - 0003c4e980]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #23 [0003c4e980 - 0003c4e9c0]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #24 [0003c4e9c0 - 0003c4ea00]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #25 [0003c4ea00 - 0003c4ea40]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #26 [0003c4ea40 - 0003c4ea80]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #27 [0003c4ea80 - 0003c4eac0]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #28 [0003c4eac0 - 0003c4eb00]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #29 [0003c4eb00 - 0003c4eb40]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #30 [0003c4eb40 - 0003c4eb80]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #31 [0003c4eb80 - 0003c4ebc0]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #32 [0003c4ebc0 - 0003c4ec00]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #33 [0003c4ec00 - 0003c4ec40]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #34 [0003c4ec40 - 0003c4ec80]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #35 [0003c4ec80 - 0003c4ecc0]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #36 [0003c4ecc0 - 0003c4ed00]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #37 [0003c4ed00 - 0003c4ed40]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #38 [0003c4ed40 - 0003c4ed80]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #39 [0003c4ed80 - 0003c4ed90]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #40 [0003c4edc0 - 0003c4edd0]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #41 [0003c4ee00 - 0003c4ee6e]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #42 [0003c4ee80 - 0003c4eeee]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #43 [0003e00000 - 0003e0f000]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #44 [0003e80000 - 0003e8f000]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #45 [0003f00000 - 0003f0f000]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #46 [0003f80000 - 0003f8f000]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #47 [0003c50f00 - 0003c50f04]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #48 [0003c50f40 - 0003c50f44]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #49 [0003c50f80 - 0003c50f90]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #50 [0003c50fc0 - 0003c50fd0]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #51 [0003c51000 - 0003c51098]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #52 [0003c510c0 - 0003c510f8]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #53 [0003c51100 - 0003c55100]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #54 [0003c55100 - 0003cd5100]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #55 [0003cd5100 - 0003d15100]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #56 [0003c4ef00 - 0003c4f140]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000]   #57 [0003f8f000 - 000588efec]         BOOTMEM
+Mar  1 12:53:07 111 kernel: [    0.000000] Initializing HighMem for node 0 (00037bfe:00140000)
+Mar  1 12:53:07 111 kernel: [    0.000000] Memory: 4007716k/5242880k available (5090k kernel code, 87396k reserved, 2427k data, 708k init, 3182164k highmem)
+Mar  1 12:53:07 111 kernel: [    0.000000] virtual kernel memory layout:
+Mar  1 12:53:07 111 kernel: [    0.000000]     fixmap  : 0xfff16000 - 0xfffff000   ( 932 kB)
+Mar  1 12:53:07 111 kernel: [    0.000000]     pkmap   : 0xffc00000 - 0xffe00000   (2048 kB)
+Mar  1 12:53:07 111 kernel: [    0.000000]     vmalloc : 0xf83fe000 - 0xffbfe000   ( 120 MB)
+Mar  1 12:53:07 111 kernel: [    0.000000]     lowmem  : 0xc0000000 - 0xf7bfe000   ( 891 MB)
+Mar  1 12:53:07 111 kernel: [    0.000000]       .init : 0xc0858000 - 0xc0909000   ( 708 kB)
+Mar  1 12:53:07 111 kernel: [    0.000000]       .data : 0xc05f8a1a - 0xc0857908   (2427 kB)
+Mar  1 12:53:07 111 kernel: [    0.000000]       .text : 0xc0100000 - 0xc05f8a1a   (5090 kB)
+Mar  1 12:53:07 111 kernel: [    0.000000] Checking if this processor honours the WP bit even in supervisor mode...Ok.
+Mar  1 12:53:07 111 kernel: [    0.000000] SLUB: Genslabs=13, HWalign=64, Order=0-3, MinObjects=0, CPUs=4, Nodes=1
+Mar  1 12:53:07 111 kernel: [    0.000000] Hierarchical RCU implementation.
+Mar  1 12:53:07 111 kernel: [    0.000000] 	RCU dyntick-idle grace-period acceleration is enabled.
+Mar  1 12:53:07 111 kernel: [    0.000000] 	RCU-based detection of stalled CPUs is disabled.
+Mar  1 12:53:07 111 kernel: [    0.000000] 	Verbose stalled-CPUs detection is disabled.
+Mar  1 12:53:07 111 kernel: [    0.000000] NR_IRQS:2304 nr_irqs:712
+Mar  1 12:53:07 111 kernel: [    0.000000] Console: colour VGA+ 80x25
+Mar  1 12:53:07 111 kernel: [    0.000000] console [tty0] enabled
+Mar  1 12:53:07 111 kernel: [    0.000000] Fast TSC calibration using PIT
+Mar  1 12:53:07 111 kernel: [    0.000000] Detected 2194.367 MHz processor.
+Mar  1 12:53:07 111 kernel: [    0.004005] Calibrating delay loop (skipped), value calculated using timer frequency.. 4388.73 BogoMIPS (lpj=8777468)
+Mar  1 12:53:07 111 kernel: [    0.004010] pid_max: default: 32768 minimum: 301
+Mar  1 12:53:07 111 kernel: [    0.004030] Security Framework initialized
+Mar  1 12:53:07 111 kernel: [    0.004044] AppArmor: AppArmor initialized
+Mar  1 12:53:07 111 kernel: [    0.004046] Yama: becoming mindful.
+Mar  1 12:53:07 111 kernel: [    0.004098] Mount-cache hash table entries: 512
+Mar  1 12:53:07 111 kernel: [    0.004216] Initializing cgroup subsys ns
+Mar  1 12:53:07 111 kernel: [    0.004220] Initializing cgroup subsys cpuacct
+Mar  1 12:53:07 111 kernel: [    0.004225] Initializing cgroup subsys memory
+Mar  1 12:53:07 111 kernel: [    0.004232] Initializing cgroup subsys devices
+Mar  1 12:53:07 111 kernel: [    0.004235] Initializing cgroup subsys freezer
+Mar  1 12:53:07 111 kernel: [    0.004237] Initializing cgroup subsys net_cls
+Mar  1 12:53:07 111 kernel: [    0.004263] CPU: Physical Processor ID: 0
+Mar  1 12:53:07 111 kernel: [    0.004265] CPU: Processor Core ID: 0
+Mar  1 12:53:07 111 kernel: [    0.004268] mce: CPU supports 6 MCE banks
+Mar  1 12:53:07 111 kernel: [    0.004276] CPU0: Thermal monitoring enabled (TM2)
+Mar  1 12:53:07 111 kernel: [    0.004279] using mwait in idle threads.
+Mar  1 12:53:07 111 kernel: [    0.004286] Performance Events: PEBS fmt0+, Core2 events, Intel PMU driver.
+Mar  1 12:53:07 111 kernel: [    0.004293] ... version:                2
+Mar  1 12:53:07 111 kernel: [    0.004295] ... bit width:              40
+Mar  1 12:53:07 111 kernel: [    0.004297] ... generic registers:      2
+Mar  1 12:53:07 111 kernel: [    0.004298] ... value mask:             000000ffffffffff
+Mar  1 12:53:07 111 kernel: [    0.004300] ... max period:             000000007fffffff
+Mar  1 12:53:07 111 kernel: [    0.004302] ... fixed-purpose events:   3
+Mar  1 12:53:07 111 kernel: [    0.004304] ... event mask:             0000000700000003
+Mar  1 12:53:07 111 kernel: [    0.008327] ACPI: Core revision 20100428
+Mar  1 12:53:07 111 kernel: [    0.024009] ftrace: converting mcount calls to 0f 1f 44 00 00
+Mar  1 12:53:07 111 kernel: [    0.024014] ftrace: allocating 22392 entries in 44 pages
+Mar  1 12:53:07 111 kernel: [    0.028049] Enabling APIC mode:  Flat.  Using 1 I/O APICs
+Mar  1 12:53:07 111 kernel: [    0.028368] ..TIMER: vector=0x30 apic1=0 pin1=2 apic2=-1 pin2=-1
+Mar  1 12:53:07 111 kernel: [    0.069660] CPU0: Intel(R) Core(TM)2 Duo CPU     T6600  @ 2.20GHz stepping 0a
+Mar  1 12:53:07 111 kernel: [    0.072000] Booting Node   0, Processors  #1
+Mar  1 12:53:07 111 kernel: [    0.008000] Initializing CPU#1
+Mar  1 12:53:07 111 kernel: [    0.160013] Brought up 2 CPUs
+Mar  1 12:53:07 111 kernel: [    0.160016] Total of 2 processors activated (8777.66 BogoMIPS).
+Mar  1 12:53:07 111 kernel: [    0.160543] devtmpfs: initialized
+Mar  1 12:53:07 111 kernel: [    0.160946] regulator: core version 0.5
+Mar  1 12:53:07 111 kernel: [    0.160974] Time: 12:52:48  Date: 03/01/11
+Mar  1 12:53:07 111 kernel: [    0.161012] NET: Registered protocol family 16
+Mar  1 12:53:07 111 kernel: [    0.161032] Trying to unpack rootfs image as initramfs...
+Mar  1 12:53:07 111 kernel: [    0.161131] EISA bus registered
+Mar  1 12:53:07 111 kernel: [    0.161139] ACPI: bus type pci registered
+Mar  1 12:53:07 111 kernel: [    0.161209] PCI: MMCONFIG for domain 0000 [bus 00-3f] at [mem 0xf8000000-0xfbffffff] (base 0xf8000000)
+Mar  1 12:53:07 111 kernel: [    0.161213] PCI: MMCONFIG at [mem 0xf8000000-0xfbffffff] reserved in E820
+Mar  1 12:53:07 111 kernel: [    0.161215] PCI: Using MMCONFIG for extended config space
+Mar  1 12:53:07 111 kernel: [    0.161216] PCI: Using configuration type 1 for base access
+Mar  1 12:53:07 111 kernel: [    0.168093] bio: create slab <bio-0> at 0
+Mar  1 12:53:07 111 kernel: [    0.175496] ACPI: BIOS _OSI(Linux) query ignored
+Mar  1 12:53:07 111 kernel: [    0.309399] ACPI: SSDT b9eb4c98 00223 (v01  PmRef  Cpu0Ist 00003000 INTL 20051117)
+Mar  1 12:53:07 111 kernel: [    0.310067] ACPI: Dynamic OEM Table Load:
+Mar  1 12:53:07 111 kernel: [    0.310071] ACPI: SSDT (null) 00223 (v01  PmRef  Cpu0Ist 00003000 INTL 20051117)
+Mar  1 12:53:07 111 kernel: [    0.310412] ACPI: SSDT b9eb2618 005B3 (v01  PmRef  Cpu0Cst 00003001 INTL 20051117)
+Mar  1 12:53:07 111 kernel: [    0.311059] ACPI: Dynamic OEM Table Load:
+Mar  1 12:53:07 111 kernel: [    0.311062] ACPI: SSDT (null) 005B3 (v01  PmRef  Cpu0Cst 00003001 INTL 20051117)
+Mar  1 12:53:07 111 kernel: [    0.311654] ACPI: SSDT b9eb3e18 001CF (v01  PmRef    ApIst 00003000 INTL 20051117)
+Mar  1 12:53:07 111 kernel: [    0.312350] ACPI: Dynamic OEM Table Load:
+Mar  1 12:53:07 111 kernel: [    0.312354] ACPI: SSDT (null) 001CF (v01  PmRef    ApIst 00003000 INTL 20051117)
+Mar  1 12:53:07 111 kernel: [    0.312559] ACPI: SSDT b9eb4f18 0008D (v01  PmRef    ApCst 00003000 INTL 20051117)
+Mar  1 12:53:07 111 kernel: [    0.313221] ACPI: Dynamic OEM Table Load:
+Mar  1 12:53:07 111 kernel: [    0.313224] ACPI: SSDT (null) 0008D (v01  PmRef    ApCst 00003000 INTL 20051117)
+Mar  1 12:53:07 111 kernel: [    0.317131] ACPI: Interpreter enabled
+Mar  1 12:53:07 111 kernel: [    0.317131] ACPI: (supports S0 S3 S4 S5)
+Mar  1 12:53:07 111 kernel: [    0.317131] ACPI: Using IOAPIC for interrupt routing
+Mar  1 12:53:07 111 kernel: [    0.328998] ACPI: EC: GPE = 0x17, I/O: command/status = 0x66, data = 0x62
+Mar  1 12:53:07 111 kernel: [    0.329301] ACPI: No dock devices found.
+Mar  1 12:53:07 111 kernel: [    0.329306] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+Mar  1 12:53:07 111 kernel: [    0.330013] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+Mar  1 12:53:07 111 kernel: [    0.331124] pci_root PNP0A08:00: host bridge window [io  0x0000-0x0cf7]
+Mar  1 12:53:07 111 kernel: [    0.331127] pci_root PNP0A08:00: host bridge window [io  0x0d00-0xffff]
+Mar  1 12:53:07 111 kernel: [    0.331130] pci_root PNP0A08:00: host bridge window [mem 0x000a0000-0x000bffff]
+Mar  1 12:53:07 111 kernel: [    0.331134] pci_root PNP0A08:00: host bridge window [mem 0xc0000000-0xfebfffff]
+Mar  1 12:53:07 111 kernel: [    0.333879] pci 0000:00:1c.0: PCI bridge to [bus 02-02]
+Mar  1 12:53:07 111 kernel: [    0.334534] pci 0000:00:1c.1: PCI bridge to [bus 03-03]
+Mar  1 12:53:07 111 kernel: [    0.334606] pci 0000:00:1c.3: PCI bridge to [bus 05-05]
+Mar  1 12:53:07 111 kernel: [    0.334678] pci 0000:00:1c.4: PCI bridge to [bus 06-06]
+Mar  1 12:53:07 111 kernel: [    0.334750] pci 0000:00:1c.5: PCI bridge to [bus 07-09]
+Mar  1 12:53:07 111 kernel: [    0.334846] pci 0000:00:1e.0: PCI bridge to [bus 0a-0a] (subtractive decode)
+Mar  1 12:53:07 111 kernel: [    0.347815] ACPI: PCI Interrupt Link [LNKA] (IRQs 3 4 5 7 9 10 *11 12)
+Mar  1 12:53:07 111 kernel: [    0.347967] ACPI: PCI Interrupt Link [LNKB] (IRQs 3 4 5 7 9 10 *11 12)
+Mar  1 12:53:07 111 kernel: [    0.348123] ACPI: PCI Interrupt Link [LNKC] (IRQs 3 4 5 7 9 10 *11 12)
+Mar  1 12:53:07 111 kernel: [    0.348270] ACPI: PCI Interrupt Link [LNKD] (IRQs 3 4 5 7 9 10 *11 12)
+Mar  1 12:53:07 111 kernel: [    0.348416] ACPI: PCI Interrupt Link [LNKE] (IRQs 3 4 5 7 9 10 *11 12)
+Mar  1 12:53:07 111 kernel: [    0.348563] ACPI: PCI Interrupt Link [LNKF] (IRQs 3 4 5 7 9 *10 11 12)
+Mar  1 12:53:07 111 kernel: [    0.348710] ACPI: PCI Interrupt Link [LNKG] (IRQs 3 4 5 7 9 10 *11 12)
+Mar  1 12:53:07 111 kernel: [    0.348857] ACPI: PCI Interrupt Link [LNKH] (IRQs 3 4 5 7 9 10 11 12) *0, disabled.
+Mar  1 12:53:07 111 kernel: [    0.348932] HEST: Table is not found!
+Mar  1 12:53:07 111 kernel: [    0.349004] vgaarb: device added: PCI:0000:00:02.0,decodes=io+mem,owns=io+mem,locks=none
+Mar  1 12:53:07 111 kernel: [    0.349020] vgaarb: loaded
+Mar  1 12:53:07 111 kernel: [    0.349181] SCSI subsystem initialized
+Mar  1 12:53:07 111 kernel: [    0.349311] usbcore: registered new interface driver usbfs
+Mar  1 12:53:07 111 kernel: [    0.349323] usbcore: registered new interface driver hub
+Mar  1 12:53:07 111 kernel: [    0.349345] usbcore: registered new device driver usb
+Mar  1 12:53:07 111 kernel: [    0.349577] ACPI: WMI: Mapper loaded
+Mar  1 12:53:07 111 kernel: [    0.349579] PCI: Using ACPI for IRQ routing
+Mar  1 12:53:07 111 kernel: [    0.350193] NetLabel: Initializing
+Mar  1 12:53:07 111 kernel: [    0.350195] NetLabel:  domain hash size = 128
+Mar  1 12:53:07 111 kernel: [    0.350196] NetLabel:  protocols = UNLABELED CIPSOv4
+Mar  1 12:53:07 111 kernel: [    0.350208] NetLabel:  unlabeled traffic allowed by default
+Mar  1 12:53:07 111 kernel: [    0.350237] HPET: 4 timers in total, 0 timers will be used for per-cpu timer
+Mar  1 12:53:07 111 kernel: [    0.350244] hpet0: at MMIO 0xfed00000, IRQs 2, 8, 0, 0
+Mar  1 12:53:07 111 kernel: [    0.350249] hpet0: 4 comparators, 64-bit 14.318180 MHz counter
+Mar  1 12:53:07 111 kernel: [    0.356121] Switching to clocksource tsc
+Mar  1 12:53:07 111 kernel: [    0.366509] AppArmor: AppArmor Filesystem Enabled
+Mar  1 12:53:07 111 kernel: [    0.366526] pnp: PnP ACPI init
+Mar  1 12:53:07 111 kernel: [    0.366545] ACPI: bus type pnp registered
+Mar  1 12:53:07 111 kernel: [    0.369681] pnp: PnP ACPI: found 12 devices
+Mar  1 12:53:07 111 kernel: [    0.369683] ACPI: ACPI bus type pnp unregistered
+Mar  1 12:53:07 111 kernel: [    0.369686] PnPBIOS: Disabled by ACPI PNP
+Mar  1 12:53:07 111 kernel: [    0.369698] system 00:00: [mem 0xf8000000-0xfbffffff] has been reserved
+Mar  1 12:53:07 111 kernel: [    0.369704] system 00:02: [io  0x164e-0x164f] has been reserved
+Mar  1 12:53:07 111 kernel: [    0.369708] system 00:02: [io  0x0600-0x060f] has been reserved
+Mar  1 12:53:07 111 kernel: [    0.369710] system 00:02: [io  0x0610] has been reserved
+Mar  1 12:53:07 111 kernel: [    0.369713] system 00:02: [io  0x0800-0x080f] has been reserved
+Mar  1 12:53:07 111 kernel: [    0.369716] system 00:02: [io  0x0810-0x0817] has been reserved
+Mar  1 12:53:07 111 kernel: [    0.369718] system 00:02: [io  0x0820-0x0823] has been reserved
+Mar  1 12:53:07 111 kernel: [    0.369721] system 00:02: [io  0x0400-0x047f] has been reserved
+Mar  1 12:53:07 111 kernel: [    0.369724] system 00:02: [io  0x0500-0x053f] has been reserved
+Mar  1 12:53:07 111 kernel: [    0.369726] system 00:02: [io  0x0380-0x038e] has been reserved
+Mar  1 12:53:07 111 kernel: [    0.369730] system 00:02: [mem 0xf8000000-0xfbffffff] has been reserved
+Mar  1 12:53:07 111 kernel: [    0.369733] system 00:02: [mem 0xfed1c000-0xfed1ffff] has been reserved
+Mar  1 12:53:07 111 kernel: [    0.369736] system 00:02: [mem 0xfed10000-0xfed13fff] has been reserved
+Mar  1 12:53:07 111 kernel: [    0.369738] system 00:02: [mem 0xfed18000-0xfed18fff] has been reserved
+Mar  1 12:53:07 111 kernel: [    0.369741] system 00:02: [mem 0xfed19000-0xfed19fff] has been reserved
+Mar  1 12:53:07 111 kernel: [    0.369744] system 00:02: [mem 0xfec00000-0xfec00fff] could not be reserved
+Mar  1 12:53:07 111 kernel: [    0.369747] system 00:02: [mem 0xfed20000-0xfed3ffff] has been reserved
+Mar  1 12:53:07 111 kernel: [    0.369750] system 00:02: [mem 0xfed40000-0xfed44fff] has been reserved
+Mar  1 12:53:07 111 kernel: [    0.369753] system 00:02: [mem 0xfed45000-0xfed8ffff] has been reserved
+Mar  1 12:53:07 111 kernel: [    0.369756] system 00:02: [mem 0xfee00000-0xfee00fff] has been reserved
+Mar  1 12:53:07 111 kernel: [    0.405718] pci 0000:03:00.0: no compatible bridge window for [mem 0xffff0000-0xffffffff pref]
+Mar  1 12:53:07 111 kernel: [    0.405784] pci 0000:00:1c.0: PCI bridge to [bus 02-02]
+Mar  1 12:53:07 111 kernel: [    0.405788] pci 0000:00:1c.0:   bridge window [io  0x6000-0x6fff]
+Mar  1 12:53:07 111 kernel: [    0.405794] pci 0000:00:1c.0:   bridge window [mem 0xd9500000-0xda4fffff]
+Mar  1 12:53:07 111 kernel: [    0.405799] pci 0000:00:1c.0:   bridge window [mem 0xd0400000-0xd13fffff 64bit pref]
+Mar  1 12:53:07 111 kernel: [    0.405809] pci 0000:03:00.0: BAR 6: assigned [mem 0xd1420000-0xd142ffff pref]
+Mar  1 12:53:07 111 kernel: [    0.405812] pci 0000:00:1c.1: PCI bridge to [bus 03-03]
+Mar  1 12:53:07 111 kernel: [    0.405816] pci 0000:00:1c.1:   bridge window [io  0x5000-0x5fff]
+Mar  1 12:53:07 111 kernel: [    0.405822] pci 0000:00:1c.1:   bridge window [mem 0xd8500000-0xd94fffff]
+Mar  1 12:53:07 111 kernel: [    0.405827] pci 0000:00:1c.1:   bridge window [mem 0xd1400000-0xd23fffff 64bit pref]
+Mar  1 12:53:07 111 kernel: [    0.405834] pci 0000:00:1c.3: PCI bridge to [bus 05-05]
+Mar  1 12:53:07 111 kernel: [    0.405837] pci 0000:00:1c.3:   bridge window [io  0x4000-0x4fff]
+Mar  1 12:53:07 111 kernel: [    0.405843] pci 0000:00:1c.3:   bridge window [mem 0xd7500000-0xd84fffff]
+Mar  1 12:53:07 111 kernel: [    0.405848] pci 0000:00:1c.3:   bridge window [mem 0xd2400000-0xd33fffff 64bit pref]
+Mar  1 12:53:07 111 kernel: [    0.405855] pci 0000:00:1c.4: PCI bridge to [bus 06-06]
+Mar  1 12:53:07 111 kernel: [    0.405858] pci 0000:00:1c.4:   bridge window [io  0x3000-0x3fff]
+Mar  1 12:53:07 111 kernel: [    0.405864] pci 0000:00:1c.4:   bridge window [mem 0xd6500000-0xd74fffff]
+Mar  1 12:53:07 111 kernel: [    0.405869] pci 0000:00:1c.4:   bridge window [mem 0xd3400000-0xd43fffff 64bit pref]
+Mar  1 12:53:07 111 kernel: [    0.405876] pci 0000:00:1c.5: PCI bridge to [bus 07-09]
+Mar  1 12:53:07 111 kernel: [    0.405880] pci 0000:00:1c.5:   bridge window [io  0x2000-0x2fff]
+Mar  1 12:53:07 111 kernel: [    0.405886] pci 0000:00:1c.5:   bridge window [mem 0xd5500000-0xd64fffff]
+Mar  1 12:53:07 111 kernel: [    0.405890] pci 0000:00:1c.5:   bridge window [mem 0xd4400000-0xd53fffff 64bit pref]
+Mar  1 12:53:07 111 kernel: [    0.405898] pci 0000:00:1e.0: PCI bridge to [bus 0a-0a]
+Mar  1 12:53:07 111 kernel: [    0.405900] pci 0000:00:1e.0:   bridge window [io  disabled]
+Mar  1 12:53:07 111 kernel: [    0.405905] pci 0000:00:1e.0:   bridge window [mem disabled]
+Mar  1 12:53:07 111 kernel: [    0.405909] pci 0000:00:1e.0:   bridge window [mem pref disabled]
+Mar  1 12:53:07 111 kernel: [    0.405939] pci 0000:00:1c.0: PCI INT A -> GSI 17 (level, low) -> IRQ 17
+Mar  1 12:53:07 111 kernel: [    0.405960] pci 0000:00:1c.1: PCI INT B -> GSI 16 (level, low) -> IRQ 16
+Mar  1 12:53:07 111 kernel: [    0.405980] pci 0000:00:1c.3: PCI INT D -> GSI 19 (level, low) -> IRQ 19
+Mar  1 12:53:07 111 kernel: [    0.405996] pci 0000:00:1c.4: PCI INT A -> GSI 17 (level, low) -> IRQ 17
+Mar  1 12:53:07 111 kernel: [    0.406011] pci 0000:00:1c.5: PCI INT B -> GSI 16 (level, low) -> IRQ 16
+Mar  1 12:53:07 111 kernel: [    0.406125] NET: Registered protocol family 2
+Mar  1 12:53:07 111 kernel: [    0.406195] IP route cache hash table entries: 32768 (order: 5, 131072 bytes)
+Mar  1 12:53:07 111 kernel: [    0.406445] TCP established hash table entries: 131072 (order: 8, 1048576 bytes)
+Mar  1 12:53:07 111 kernel: [    0.406884] TCP bind hash table entries: 65536 (order: 7, 524288 bytes)
+Mar  1 12:53:07 111 kernel: [    0.407110] TCP: Hash tables configured (established 131072 bind 65536)
+Mar  1 12:53:07 111 kernel: [    0.407113] TCP reno registered
+Mar  1 12:53:07 111 kernel: [    0.407116] UDP hash table entries: 512 (order: 2, 16384 bytes)
+Mar  1 12:53:07 111 kernel: [    0.407123] UDP-Lite hash table entries: 512 (order: 2, 16384 bytes)
+Mar  1 12:53:07 111 kernel: [    0.407212] NET: Registered protocol family 1
+Mar  1 12:53:07 111 kernel: [    0.407856] Simple Boot Flag at 0x44 set to 0x1
+Mar  1 12:53:07 111 kernel: [    0.408030] cpufreq-nforce2: No nForce2 chipset.
+Mar  1 12:53:07 111 kernel: [    0.408061] Scanning for low memory corruption every 60 seconds
+Mar  1 12:53:07 111 kernel: [    0.408200] audit: initializing netlink socket (disabled)
+Mar  1 12:53:07 111 kernel: [    0.408217] type=2000 audit(1298983968.404:1): initialized
+Mar  1 12:53:07 111 kernel: [    0.417896] Freeing initrd memory: 10472k freed
+Mar  1 12:53:07 111 kernel: [    0.419024] highmem bounce pool size: 64 pages
+Mar  1 12:53:07 111 kernel: [    0.419032] HugeTLB registered 2 MB page size, pre-allocated 0 pages
+Mar  1 12:53:07 111 kernel: [    0.420736] VFS: Disk quotas dquot_6.5.2
+Mar  1 12:53:07 111 kernel: [    0.420855] Dquot-cache hash table entries: 1024 (order 0, 4096 bytes)
+Mar  1 12:53:07 111 kernel: [    0.421633] fuse init (API version 7.14)
+Mar  1 12:53:07 111 kernel: [    0.421738] msgmni has been set to 1626
+Mar  1 12:53:07 111 kernel: [    0.424904] Block layer SCSI generic (bsg) driver version 0.4 loaded (major 253)
+Mar  1 12:53:07 111 kernel: [    0.424908] io scheduler noop registered
+Mar  1 12:53:07 111 kernel: [    0.424910] io scheduler deadline registered
+Mar  1 12:53:07 111 kernel: [    0.424925] io scheduler cfq registered (default)
+Mar  1 12:53:07 111 kernel: [    0.425793] pci_hotplug: PCI Hot Plug PCI Core version: 0.5
+Mar  1 12:53:07 111 kernel: [    0.425912] pciehp: PCI Express Hot Plug Controller Driver version: 0.4
+Mar  1 12:53:07 111 kernel: [    0.426410] ACPI: AC Adapter [ACAD] (off-line)
+Mar  1 12:53:07 111 kernel: [    0.426490] input: Power Button as /devices/LNXSYSTM:00/LNXSYBUS:00/PNP0C0C:00/input/input0
+Mar  1 12:53:07 111 kernel: [    0.426496] ACPI: Power Button [PWRB]
+Mar  1 12:53:07 111 kernel: [    0.426538] input: Lid Switch as /devices/LNXSYSTM:00/LNXSYBUS:00/PNP0C0D:00/input/input1
+Mar  1 12:53:07 111 kernel: [    0.426873] ACPI: Lid Switch [LID0]
+Mar  1 12:53:07 111 kernel: [    0.426917] input: Sleep Button as /devices/LNXSYSTM:00/LNXSYBUS:00/PNP0C0E:00/input/input2
+Mar  1 12:53:07 111 kernel: [    0.426921] ACPI: Sleep Button [SLPB]
+Mar  1 12:53:07 111 kernel: [    0.426979] input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input3
+Mar  1 12:53:07 111 kernel: [    0.426982] ACPI: Power Button [PWRF]
+Mar  1 12:53:07 111 kernel: [    0.427674] Marking TSC unstable due to TSC halts in idle
+Mar  1 12:53:07 111 kernel: [    0.427715] Switching to clocksource hpet
+Mar  1 12:53:07 111 kernel: [    0.433511] [Firmware Bug]: Invalid critical threshold (0)
+Mar  1 12:53:07 111 kernel: [    0.434820] thermal LNXTHERM:01: registered as thermal_zone0
+Mar  1 12:53:07 111 kernel: [    0.434829] ACPI: Thermal Zone [TZ01] (43 C)
+Mar  1 12:53:07 111 kernel: [    0.434915] ERST: Table is not found!
+Mar  1 12:53:07 111 kernel: [    0.434997] isapnp: Scanning for PnP cards...
+Mar  1 12:53:07 111 kernel: [    0.435233] Serial: 8250/16550 driver, 4 ports, IRQ sharing enabled
+Mar  1 12:53:07 111 kernel: [    0.436705] brd: module loaded
+Mar  1 12:53:07 111 kernel: [    0.437226] loop: module loaded
+Mar  1 12:53:07 111 kernel: [    0.437716] Fixed MDIO Bus: probed
+Mar  1 12:53:07 111 kernel: [    0.437747] PPP generic driver version 2.4.2
+Mar  1 12:53:07 111 kernel: [    0.437778] tun: Universal TUN/TAP device driver, 1.6
+Mar  1 12:53:07 111 kernel: [    0.437780] tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+Mar  1 12:53:07 111 kernel: [    0.437865] ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+Mar  1 12:53:07 111 kernel: [    0.437886] ehci_hcd 0000:00:1a.7: PCI INT D -> GSI 19 (level, low) -> IRQ 19
+Mar  1 12:53:07 111 kernel: [    0.437902] ehci_hcd 0000:00:1a.7: EHCI Host Controller
+Mar  1 12:53:07 111 kernel: [    0.437934] ehci_hcd 0000:00:1a.7: new USB bus registered, assigned bus number 1
+Mar  1 12:53:07 111 kernel: [    0.437964] ehci_hcd 0000:00:1a.7: debug port 1
+Mar  1 12:53:07 111 kernel: [    0.441864] ehci_hcd 0000:00:1a.7: irq 19, io mem 0xda505c00
+Mar  1 12:53:07 111 kernel: [    0.456518] ehci_hcd 0000:00:1a.7: USB 2.0 started, EHCI 1.00
+Mar  1 12:53:07 111 kernel: [    0.456621] hub 1-0:1.0: USB hub found
+Mar  1 12:53:07 111 kernel: [    0.456626] hub 1-0:1.0: 4 ports detected
+Mar  1 12:53:07 111 kernel: [    0.456791] ehci_hcd 0000:00:1d.7: PCI INT A -> GSI 20 (level, low) -> IRQ 20
+Mar  1 12:53:07 111 kernel: [    0.456805] ehci_hcd 0000:00:1d.7: EHCI Host Controller
+Mar  1 12:53:07 111 kernel: [    0.456854] ehci_hcd 0000:00:1d.7: new USB bus registered, assigned bus number 2
+Mar  1 12:53:07 111 kernel: [    0.456882] ehci_hcd 0000:00:1d.7: debug port 1
+Mar  1 12:53:07 111 kernel: [    0.460795] ehci_hcd 0000:00:1d.7: irq 20, io mem 0xda505800
+Mar  1 12:53:07 111 kernel: [    0.476512] ehci_hcd 0000:00:1d.7: USB 2.0 started, EHCI 1.00
+Mar  1 12:53:07 111 kernel: [    0.476617] hub 2-0:1.0: USB hub found
+Mar  1 12:53:07 111 kernel: [    0.476621] hub 2-0:1.0: 8 ports detected
+Mar  1 12:53:07 111 kernel: [    0.476695] ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+Mar  1 12:53:07 111 kernel: [    0.476708] uhci_hcd: USB Universal Host Controller Interface driver
+Mar  1 12:53:07 111 kernel: [    0.476726] uhci_hcd 0000:00:1a.0: PCI INT A -> GSI 16 (level, low) -> IRQ 16
+Mar  1 12:53:07 111 kernel: [    0.476737] uhci_hcd 0000:00:1a.0: UHCI Host Controller
+Mar  1 12:53:07 111 kernel: [    0.476770] uhci_hcd 0000:00:1a.0: new USB bus registered, assigned bus number 3
+Mar  1 12:53:07 111 kernel: [    0.476803] uhci_hcd 0000:00:1a.0: irq 16, io base 0x000070e0
+Mar  1 12:53:07 111 kernel: [    0.476910] hub 3-0:1.0: USB hub found
+Mar  1 12:53:07 111 kernel: [    0.476914] hub 3-0:1.0: 2 ports detected
+Mar  1 12:53:07 111 kernel: [    0.476983] uhci_hcd 0000:00:1a.1: PCI INT B -> GSI 21 (level, low) -> IRQ 21
+Mar  1 12:53:07 111 kernel: [    0.476992] uhci_hcd 0000:00:1a.1: UHCI Host Controller
+Mar  1 12:53:07 111 kernel: [    0.477023] uhci_hcd 0000:00:1a.1: new USB bus registered, assigned bus number 4
+Mar  1 12:53:07 111 kernel: [    0.477056] uhci_hcd 0000:00:1a.1: irq 21, io base 0x000070c0
+Mar  1 12:53:07 111 kernel: [    0.477165] hub 4-0:1.0: USB hub found
+Mar  1 12:53:07 111 kernel: [    0.477168] hub 4-0:1.0: 2 ports detected
+Mar  1 12:53:07 111 kernel: [    0.477229] uhci_hcd 0000:00:1d.0: PCI INT A -> GSI 20 (level, low) -> IRQ 20
+Mar  1 12:53:07 111 kernel: [    0.477238] uhci_hcd 0000:00:1d.0: UHCI Host Controller
+Mar  1 12:53:07 111 kernel: [    0.477271] uhci_hcd 0000:00:1d.0: new USB bus registered, assigned bus number 5
+Mar  1 12:53:07 111 kernel: [    0.477295] uhci_hcd 0000:00:1d.0: irq 20, io base 0x000070a0
+Mar  1 12:53:07 111 kernel: [    0.477406] hub 5-0:1.0: USB hub found
+Mar  1 12:53:07 111 kernel: [    0.477410] hub 5-0:1.0: 2 ports detected
+Mar  1 12:53:07 111 kernel: [    0.477471] uhci_hcd 0000:00:1d.1: PCI INT B -> GSI 19 (level, low) -> IRQ 19
+Mar  1 12:53:07 111 kernel: [    0.477480] uhci_hcd 0000:00:1d.1: UHCI Host Controller
+Mar  1 12:53:07 111 kernel: [    0.477510] uhci_hcd 0000:00:1d.1: new USB bus registered, assigned bus number 6
+Mar  1 12:53:07 111 kernel: [    0.477534] uhci_hcd 0000:00:1d.1: irq 19, io base 0x00007080
+Mar  1 12:53:07 111 kernel: [    0.477641] hub 6-0:1.0: USB hub found
+Mar  1 12:53:07 111 kernel: [    0.477644] hub 6-0:1.0: 2 ports detected
+Mar  1 12:53:07 111 kernel: [    0.477706] uhci_hcd 0000:00:1d.2: PCI INT D -> GSI 16 (level, low) -> IRQ 16
+Mar  1 12:53:07 111 kernel: [    0.477715] uhci_hcd 0000:00:1d.2: UHCI Host Controller
+Mar  1 12:53:07 111 kernel: [    0.477744] uhci_hcd 0000:00:1d.2: new USB bus registered, assigned bus number 7
+Mar  1 12:53:07 111 kernel: [    0.477768] uhci_hcd 0000:00:1d.2: irq 16, io base 0x00007060
+Mar  1 12:53:07 111 kernel: [    0.477875] hub 7-0:1.0: USB hub found
+Mar  1 12:53:07 111 kernel: [    0.477879] hub 7-0:1.0: 2 ports detected
+Mar  1 12:53:07 111 kernel: [    0.477944] uhci_hcd 0000:00:1d.3: PCI INT C -> GSI 18 (level, low) -> IRQ 18
+Mar  1 12:53:07 111 kernel: [    0.477954] uhci_hcd 0000:00:1d.3: UHCI Host Controller
+Mar  1 12:53:07 111 kernel: [    0.477985] uhci_hcd 0000:00:1d.3: new USB bus registered, assigned bus number 8
+Mar  1 12:53:07 111 kernel: [    0.478018] uhci_hcd 0000:00:1d.3: irq 18, io base 0x00007040
+Mar  1 12:53:07 111 kernel: [    0.478129] hub 8-0:1.0: USB hub found
+Mar  1 12:53:07 111 kernel: [    0.478133] hub 8-0:1.0: 2 ports detected
+Mar  1 12:53:07 111 kernel: [    0.478257] PNP: PS/2 Controller [PNP0303:KBC,PNP0f13:MOUE] at 0x60,0x64 irq 1,12
+Mar  1 12:53:07 111 kernel: [    0.500076] serio: i8042 KBD port at 0x60,0x64 irq 1
+Mar  1 12:53:07 111 kernel: [    0.500083] serio: i8042 AUX port at 0x60,0x64 irq 12
+Mar  1 12:53:07 111 kernel: [    0.500177] mice: PS/2 mouse device common for all mice
+Mar  1 12:53:07 111 kernel: [    0.501376] rtc_cmos 00:04: RTC can wake from S4
+Mar  1 12:53:07 111 kernel: [    0.501408] rtc_cmos 00:04: rtc core: registered rtc_cmos as rtc0
+Mar  1 12:53:07 111 kernel: [    0.501435] rtc0: alarms up to one month, 242 bytes nvram, hpet irqs
+Mar  1 12:53:07 111 kernel: [    0.501530] device-mapper: uevent: version 1.0.3
+Mar  1 12:53:07 111 kernel: [    0.501623] device-mapper: ioctl: 4.17.0-ioctl (2010-03-05) initialised: dm-devel@redhat.com
+Mar  1 12:53:07 111 kernel: [    0.501681] device-mapper: multipath: version 1.1.1 loaded
+Mar  1 12:53:07 111 kernel: [    0.501683] device-mapper: multipath round-robin: version 1.0.0 loaded
+Mar  1 12:53:07 111 kernel: [    0.501785] EISA: Probing bus 0 at eisa.0
+Mar  1 12:53:07 111 kernel: [    0.501788] EISA: Cannot allocate resource for mainboard
+Mar  1 12:53:07 111 kernel: [    0.501791] Cannot allocate resource for EISA slot 1
+Mar  1 12:53:07 111 kernel: [    0.501793] Cannot allocate resource for EISA slot 2
+Mar  1 12:53:07 111 kernel: [    0.501795] Cannot allocate resource for EISA slot 3
+Mar  1 12:53:07 111 kernel: [    0.501797] Cannot allocate resource for EISA slot 4
+Mar  1 12:53:07 111 kernel: [    0.501798] Cannot allocate resource for EISA slot 5
+Mar  1 12:53:07 111 kernel: [    0.501800] Cannot allocate resource for EISA slot 6
+Mar  1 12:53:07 111 kernel: [    0.501802] Cannot allocate resource for EISA slot 7
+Mar  1 12:53:07 111 kernel: [    0.501804] Cannot allocate resource for EISA slot 8
+Mar  1 12:53:07 111 kernel: [    0.501806] EISA: Detected 0 cards.
+Mar  1 12:53:07 111 kernel: [    0.501927] cpuidle: using governor ladder
+Mar  1 12:53:07 111 kernel: [    0.502024] cpuidle: using governor menu
+Mar  1 12:53:07 111 kernel: [    0.502319] TCP cubic registered
+Mar  1 12:53:07 111 kernel: [    0.502444] NET: Registered protocol family 10
+Mar  1 12:53:07 111 kernel: [    0.502799] lo: Disabled Privacy Extensions
+Mar  1 12:53:07 111 kernel: [    0.503032] NET: Registered protocol family 17
+Mar  1 12:53:07 111 kernel: [    0.503562] Using IPI No-Shortcut mode
+Mar  1 12:53:07 111 kernel: [    0.503646] registered taskstats version 1
+Mar  1 12:53:07 111 kernel: [    0.504230]   Magic number: 3:665:884
+Mar  1 12:53:07 111 kernel: [    0.504308] rtc_cmos 00:04: setting system clock to 2011-03-01 12:52:48 UTC (1298983968)
+Mar  1 12:53:07 111 kernel: [    0.504311] BIOS EDD facility v0.16 2004-Jun-25, 0 devices found
+Mar  1 12:53:07 111 kernel: [    0.504313] EDD information not available.
+Mar  1 12:53:07 111 kernel: [    0.521982] input: AT Translated Set 2 keyboard as /devices/platform/i8042/serio0/input/input4
+Mar  1 12:53:07 111 kernel: [    0.524869] ACPI: Battery Slot [BAT0] (battery present)
+Mar  1 12:53:07 111 kernel: [    0.788756] isapnp: No Plug & Play device found
+Mar  1 12:53:07 111 kernel: [    0.788801] Freeing unused kernel memory: 708k freed
+Mar  1 12:53:07 111 kernel: [    0.789185] Write protecting the kernel text: 5092k
+Mar  1 12:53:07 111 kernel: [    0.789281] Write protecting the kernel read-only data: 2012k
+Mar  1 12:53:07 111 kernel: [    0.805225] udev[82]: starting version 163
+Mar  1 12:53:07 111 kernel: [    0.824544] usb 2-4: new high speed USB device using ehci_hcd and address 2
+Mar  1 12:53:07 111 kernel: [    0.919144] ahci 0000:00:1f.2: PCI INT B -> GSI 19 (level, low) -> IRQ 19
+Mar  1 12:53:07 111 kernel: [    0.919267] ahci: SSS flag set, parallel bus scan disabled
+Mar  1 12:53:07 111 kernel: [    0.919304] ahci 0000:00:1f.2: AHCI 0001.0200 32 slots 4 ports 3 Gbps 0x33 impl SATA mode
+Mar  1 12:53:07 111 kernel: [    0.919308] ahci 0000:00:1f.2: flags: 64bit ncq sntf stag pm led clo pmp pio slum part ccc ems sxs 
+Mar  1 12:53:07 111 kernel: [    0.919459] r8169 Gigabit Ethernet driver 2.3LK-NAPI loaded
+Mar  1 12:53:07 111 kernel: [    0.919477] r8169 0000:03:00.0: PCI INT A -> GSI 17 (level, low) -> IRQ 17
+Mar  1 12:53:07 111 kernel: [    0.920101] r8169 0000:03:00.0: eth0: RTL8102e at 0xf84ae000, 00:26:9e:a7:70:40, XID 04e00000 IRQ 46
+Mar  1 12:53:07 111 kernel: [    0.958174] scsi0 : ahci
+Mar  1 12:53:07 111 kernel: [    0.958347] scsi1 : ahci
+Mar  1 12:53:07 111 kernel: [    0.958424] scsi2 : ahci
+Mar  1 12:53:07 111 kernel: [    0.958497] scsi3 : ahci
+Mar  1 12:53:07 111 kernel: [    0.958569] scsi4 : ahci
+Mar  1 12:53:07 111 kernel: [    0.958639] scsi5 : ahci
+Mar  1 12:53:07 111 kernel: [    0.958855] ata1: SATA max UDMA/133 abar m2048@0xda505000 port 0xda505100 irq 45
+Mar  1 12:53:07 111 kernel: [    0.958859] ata2: SATA max UDMA/133 abar m2048@0xda505000 port 0xda505180 irq 45
+Mar  1 12:53:07 111 kernel: [    0.958861] ata3: DUMMY
+Mar  1 12:53:07 111 kernel: [    0.958863] ata4: DUMMY
+Mar  1 12:53:07 111 kernel: [    0.958865] ata5: SATA max UDMA/133 abar m2048@0xda505000 port 0xda505300 irq 45
+Mar  1 12:53:07 111 kernel: [    0.958868] ata6: SATA max UDMA/133 abar m2048@0xda505000 port 0xda505380 irq 45
+Mar  1 12:53:07 111 kernel: [    1.448050] ata1: SATA link up 3.0 Gbps (SStatus 123 SControl 300)
+Mar  1 12:53:07 111 kernel: [    1.448971] ata1.00: ATA-8: Hitachi HTS725032A9A364, PC3OC70E, max UDMA/100
+Mar  1 12:53:07 111 kernel: [    1.448977] ata1.00: 625142448 sectors, multi 16: LBA48 NCQ (depth 31/32), AA
+Mar  1 12:53:07 111 kernel: [    1.450048] ata1.00: configured for UDMA/100
+Mar  1 12:53:07 111 kernel: [    1.464272] scsi 0:0:0:0: Direct-Access     ATA      Hitachi HTS72503 PC3O PQ: 0 ANSI: 5
+Mar  1 12:53:07 111 kernel: [    1.464425] sd 0:0:0:0: Attached scsi generic sg0 type 0
+Mar  1 12:53:07 111 kernel: [    1.464463] sd 0:0:0:0: [sda] 625142448 512-byte logical blocks: (320 GB/298 GiB)
+Mar  1 12:53:07 111 kernel: [    1.464538] sd 0:0:0:0: [sda] Write Protect is off
+Mar  1 12:53:07 111 kernel: [    1.464562] sd 0:0:0:0: [sda] Write cache: enabled, read cache: enabled, doesn't support DPO or FUA
+Mar  1 12:53:07 111 kernel: [    1.464721]  sda: sda1 sda2 sda3 < sda5 sda6 >
+Mar  1 12:53:07 111 kernel: [    1.514282] sd 0:0:0:0: [sda] Attached SCSI disk
+Mar  1 12:53:07 111 kernel: [    2.360131] ata2: SATA link up 1.5 Gbps (SStatus 113 SControl 300)
+Mar  1 12:53:07 111 kernel: [    2.375820] ata2.00: ATAPI: hp      DVD RW AD-7561S, AH73, max UDMA/100
+Mar  1 12:53:07 111 kernel: [    2.392586] ata2.00: configured for UDMA/100
+Mar  1 12:53:07 111 kernel: [    2.414389] scsi 1:0:0:0: CD-ROM            hp       DVD RW AD-7561S  AH73 PQ: 0 ANSI: 5
+Mar  1 12:53:07 111 kernel: [    2.424895] sr0: scsi3-mmc drive: 24x/24x writer dvd-ram cd/rw xa/form2 cdda tray
+Mar  1 12:53:07 111 kernel: [    2.424901] Uniform CD-ROM driver Revision: 3.20
+Mar  1 12:53:07 111 kernel: [    2.425116] sr 1:0:0:0: Attached scsi generic sg1 type 5
+Mar  1 12:53:07 111 kernel: [    2.744128] ata5: SATA link down (SStatus 0 SControl 300)
+Mar  1 12:53:07 111 kernel: [    3.080102] ata6: SATA link down (SStatus 0 SControl 300)
+Mar  1 12:53:07 111 kernel: [    3.580474] REISERFS (device sda6): found reiserfs format "3.6" with standard journal
+Mar  1 12:53:07 111 kernel: [    3.580484] REISERFS (device sda6): using ordered data mode
+Mar  1 12:53:07 111 kernel: [    3.607462] REISERFS (device sda6): journal params: device sda6, size 8192, journal first block 18, max trans len 1024, max batch 900, max commit age 30, max trans age 30
+Mar  1 12:53:07 111 kernel: [    3.607812] REISERFS (device sda6): checking transaction log (sda6)
+Mar  1 12:53:07 111 kernel: [    8.240285] REISERFS (device sda6): replayed 403 transactions in 5 seconds
+Mar  1 12:53:07 111 kernel: [    8.240596] REISERFS (device sda6): Using r5 hash to sort names
+Mar  1 12:53:07 111 kernel: [    9.599881] Adding 3616764k swap on /dev/sda5.  Priority:-1 extents:1 across:3616764k 
+Mar  1 12:53:07 111 kernel: [   10.178398] udev[398]: starting version 163
+Mar  1 12:53:07 111 kernel: [   11.841630] lib80211: common routines for IEEE802.11 drivers
+Mar  1 12:53:07 111 kernel: [   12.344813] lirc_dev: IR Remote Control driver registered, major 251 
+Mar  1 12:53:07 111 kernel: [   12.557512] wl: module license 'MIXED/Proprietary' taints kernel.
+Mar  1 12:53:07 111 kernel: [   12.557517] Disabling lock debugging due to kernel taint
+Mar  1 12:53:07 111 kernel: [   12.563115] wl 0000:02:00.0: PCI INT A -> GSI 16 (level, low) -> IRQ 16
+Mar  1 12:53:07 111 kernel: [   12.576903] REISERFS (device sda6): Removing [67073 179853 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.578242] REISERFS (device sda6): Removing [23 178917 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.578266] REISERFS (device sda6): Removing [23 178916 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.578287] REISERFS (device sda6): Removing [23 178899 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.578308] REISERFS (device sda6): Removing [23 178898 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.578328] REISERFS (device sda6): Removing [23 178836 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.586971] REISERFS (device sda6): Removing [27378 177787 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.596873] REISERFS (device sda6): Removing [27378 177580 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.607810] REISERFS (device sda6): Removing [7 133160 0x0 SD]..
+Mar  1 12:53:07 111 kernel: [   12.618124] lp: driver loaded but no devices found
+Mar  1 12:53:07 111 kernel: [   12.723924] Linux agpgart interface v0.103
+Mar  1 12:53:07 111 kernel: [   12.728266] input: HP WMI hotkeys as /devices/virtual/input/input5
+Mar  1 12:53:07 111 kernel: [   12.747139] done
+Mar  1 12:53:07 111 kernel: [   12.747160] REISERFS (device sda6): Removing [126465 93724 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.747210] REISERFS (device sda6): Removing [23 93614 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.750096] REISERFS (device sda6): Removing [109226 93509 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.750151] REISERFS (device sda6): Removing [109226 93472 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.750193] REISERFS (device sda6): Removing [126465 93471 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.750229] REISERFS (device sda6): Removing [126465 93470 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.750257] REISERFS (device sda6): Removing [126465 93465 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.750285] REISERFS (device sda6): Removing [126465 93261 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.750313] REISERFS (device sda6): Removing [126465 93256 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.750341] REISERFS (device sda6): Removing [126465 92606 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.750368] REISERFS (device sda6): Removing [126465 92146 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.750395] REISERFS (device sda6): Removing [126465 92144 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.770539] REISERFS (device sda6): Removing [108844 88789 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.795097] REISERFS (device sda6): Removing [108844 88754 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.795152] REISERFS (device sda6): Removing [108844 88753 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.795207] REISERFS (device sda6): Removing [27378 87578 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.823579] REISERFS (device sda6): Removing [126465 87546 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.823641] REISERFS (device sda6): Removing [27378 87540 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.823682] REISERFS (device sda6): Removing [23 87481 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.823712] REISERFS (device sda6): Removing [108844 87014 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.823740] REISERFS (device sda6): Removing [108844 87011 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.830413] REISERFS (device sda6): Removing [108844 87005 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.830478] REISERFS (device sda6): Removing [108844 87002 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.830534] REISERFS (device sda6): Removing [108844 87000 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.830591] REISERFS (device sda6): Removing [108844 86998 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.830621] REISERFS (device sda6): Removing [108844 86991 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.830651] REISERFS (device sda6): Removing [108844 86988 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.830681] REISERFS (device sda6): Removing [108844 86987 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.830710] REISERFS (device sda6): Removing [108844 86984 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.830739] REISERFS (device sda6): Removing [108844 86983 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.830767] REISERFS (device sda6): Removing [108844 86980 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.830796] REISERFS (device sda6): Removing [108844 86978 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.830828] REISERFS (device sda6): Removing [8145 86971 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.852795] REISERFS (device sda6): Removing [108844 86970 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.852829] REISERFS (device sda6): Removing [108844 86969 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.852857] REISERFS (device sda6): Removing [108844 86965 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.852887] REISERFS (device sda6): Removing [431 86955 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.866501] REISERFS (device sda6): Removing [8145 86914 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.866566] REISERFS (device sda6): Removing [126465 86909 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.866617] REISERFS (device sda6): Removing [23 86898 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.866645] REISERFS (device sda6): Removing [23 85719 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.866681] REISERFS (device sda6): Removing [126465 85684 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.866709] REISERFS (device sda6): Removing [108844 82829 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.866739] REISERFS (device sda6): Removing [14 62446 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.873948] REISERFS (device sda6): Removing [14 60344 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.878906] REISERFS (device sda6): Removing [8159 42065 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   12.944658] Linux video capture interface: v2.00
+Mar  1 12:53:07 111 kernel: [   12.948683] uvcvideo: Found UVC 1.00 device HP Webcam (064e:a127)
+Mar  1 12:53:07 111 kernel: [   12.965258] input: HP Webcam as /devices/pci0000:00/0000:00:1d.7/usb2/2-4/2-4:1.0/input/input6
+Mar  1 12:53:07 111 kernel: [   12.965312] usbcore: registered new interface driver uvcvideo
+Mar  1 12:53:07 111 kernel: [   12.965314] USB Video Class driver (v0.1.0)
+Mar  1 12:53:07 111 kernel: [   12.975978] agpgart-intel 0000:00:00.0: Intel GM45 Chipset
+Mar  1 12:53:07 111 kernel: [   12.977212] agpgart-intel 0000:00:00.0: detected 65532K stolen memory, trimming to 32768K
+Mar  1 12:53:07 111 kernel: [   12.992821] eth1: Broadcom BCM4315 802.11 Hybrid Wireless Controller 5.60.48.36 
+Mar  1 12:53:07 111 kernel: [   13.005284] agpgart-intel 0000:00:00.0: AGP aperture is 256M @ 0xc0000000
+Mar  1 12:53:07 111 kernel: [   13.186986] REISERFS (device sda6): Removing [10853 18789 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   13.239791] REISERFS (device sda6): Removing [10853 18786 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   13.239858] REISERFS (device sda6): Removing [10853 18785 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   13.239896] REISERFS (device sda6): Removing [10853 18784 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   13.239931] REISERFS (device sda6): Removing [23 18637 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   13.239964] REISERFS (device sda6): Removing [27378 18565 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   13.240007] REISERFS (device sda6): Removing [27378 18563 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   13.240036] REISERFS (device sda6): Removing [27378 18548 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   13.240084] REISERFS (device sda6): Removing [27378 18545 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   13.240123] REISERFS (device sda6): Removing [27378 18530 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   13.240153] REISERFS (device sda6): Removing [108844 18480 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   13.240181] REISERFS (device sda6): Removing [23 18446 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   13.240210] REISERFS (device sda6): Removing [27378 18333 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   13.240239] REISERFS (device sda6): Removing [108844 18305 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   13.240266] REISERFS (device sda6): Removing [23 18090 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   13.240292] REISERFS (device sda6): Removing [108844 18070 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   13.240320] REISERFS (device sda6): Removing [23 17892 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   13.240359] REISERFS (device sda6): Removing [108844 17819 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   13.339965] REISERFS (device sda6): Removing [27378 17314 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   13.340056] REISERFS (device sda6): Removing [27378 17182 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   13.340109] REISERFS (device sda6): Removing [27378 17144 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   13.340151] REISERFS (device sda6): Removing [8145 15975 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   13.355383] lirc_ene0100: module is from the staging directory, the quality is unknown, you have been warned.
+Mar  1 12:53:07 111 kernel: [   13.356106] enecir 00:0a: lirc_dev: driver enecir registered at minor = 0
+Mar  1 12:53:07 111 kernel: [   13.356168] enecir: unknown ENE chip detected, assuming KB3926D
+Mar  1 12:53:07 111 kernel: [   13.356170] enecir: driver support incomplete
+Mar  1 12:53:07 111 kernel: [   13.356179] enecir: hardware features:
+Mar  1 12:53:07 111 kernel: [   13.356181] enecir: learning and tx off, gpio40_learn off, fan_in off
+Mar  1 12:53:07 111 kernel: [   13.356182] enecir: driver has been succesfully loaded
+Mar  1 12:53:07 111 kernel: [   13.363945] REISERFS (device sda6): Removing [8159 11677 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   13.364034] REISERFS (device sda6): Removing [8159 11675 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   13.364077] REISERFS (device sda6): Removing [8159 11673 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   13.389774] REISERFS (device sda6): Removing [8159 11550 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   13.389979] REISERFS (device sda6): Removing [27378 9877 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   13.419049] REISERFS (device sda6): Removing [67073 9643 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   13.450801] REISERFS (device sda6): Removing [27378 8098 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   13.450870] REISERFS (device sda6): Removing [27378 7852 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   13.456520] REISERFS (device sda6): Removing [8159 7848 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   13.456641] REISERFS (device sda6): Removing [8159 7813 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   13.456716] REISERFS (device sda6): Removing [27378 2834 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   13.456761] REISERFS (device sda6): Removing [27378 2160 0x0 SD]..done
+Mar  1 12:53:07 111 kernel: [   13.456790] REISERFS (device sda6): There were 89 uncompleted unlinks/truncates. Completed
+Mar  1 12:53:07 111 kernel: [   13.474122] Synaptics Touchpad, model: 1, fw: 6.5, id: 0x1c0b1, caps: 0xa04751/0xa00000/0x0
+Mar  1 12:53:07 111 kernel: [   13.553395] input: SynPS/2 Synaptics TouchPad as /devices/platform/i8042/serio1/input/input7
+Mar  1 12:53:07 111 kernel: [   13.781454] lis3lv02d: laptop model unknown, using default axes configuration
+Mar  1 12:53:07 111 kernel: [   13.792264] lis3lv02d: 8 bits sensor found
+Mar  1 12:53:07 111 kernel: [   13.808630] HDA Intel 0000:00:1b.0: PCI INT A -> GSI 22 (level, low) -> IRQ 22
+Mar  1 12:53:07 111 kernel: [   13.836805] [drm] Initialized drm 1.1.0 20060810
+Mar  1 12:53:07 111 kernel: [   13.960124] input: ST LIS3LV02DL Accelerometer as /devices/platform/lis3lv02d/input/input8
+Mar  1 12:53:07 111 kernel: [   13.960291] lis3lv02d driver loaded.
+Mar  1 12:53:07 111 kernel: [   14.360470] input: HDA Intel Mic at Ext Front Jack as /devices/pci0000:00/0000:00:1b.0/sound/card0/input9
+Mar  1 12:53:07 111 kernel: [   14.360644] input: HDA Intel Line Out at Ext Front Jack as /devices/pci0000:00/0000:00:1b.0/sound/card0/input10
+Mar  1 12:53:07 111 kernel: [   14.360998] i915 0000:00:02.0: PCI INT A -> GSI 16 (level, low) -> IRQ 16
+Mar  1 12:53:07 111 kernel: [   14.392378] [drm] detected 63M stolen memory, trimming to 32M
+Mar  1 12:53:07 111 kernel: [   14.392500] [drm] set up 32M of stolen space
+Mar  1 12:53:07 111 kernel: [   14.509281] vgaarb: device changed decodes: PCI:0000:00:02.0,olddecodes=io+mem,decodes=io+mem:owns=io+mem
+Mar  1 12:53:07 111 kernel: [   15.020043] Skipping EDID probe due to cached edid
+Mar  1 12:53:07 111 kernel: [   15.080494] type=1400 audit(1299001983.075:2): apparmor="STATUS" operation="profile_load" name="/sbin/dhclient3" pid=556 comm="apparmor_parser"
+Mar  1 12:53:07 111 kernel: [   15.080525] type=1400 audit(1299001983.075:3): apparmor="STATUS" operation="profile_replace" name="/sbin/dhclient3" pid=712 comm="apparmor_parser"
+Mar  1 12:53:07 111 kernel: [   15.081215] type=1400 audit(1299001983.075:4): apparmor="STATUS" operation="profile_load" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=556 comm="apparmor_parser"
+Mar  1 12:53:07 111 kernel: [   15.081233] type=1400 audit(1299001983.075:5): apparmor="STATUS" operation="profile_replace" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=712 comm="apparmor_parser"
+Mar  1 12:53:07 111 kernel: [   15.081572] type=1400 audit(1299001983.075:6): apparmor="STATUS" operation="profile_load" name="/usr/lib/connman/scripts/dhclient-script" pid=556 comm="apparmor_parser"
+Mar  1 12:53:07 111 kernel: [   15.081594] type=1400 audit(1299001983.075:7): apparmor="STATUS" operation="profile_replace" name="/usr/lib/connman/scripts/dhclient-script" pid=712 comm="apparmor_parser"
+Mar  1 12:53:07 111 kernel: [   15.086238] type=1400 audit(1299001983.079:8): apparmor="STATUS" operation="profile_replace" name="/sbin/dhclient3" pid=557 comm="apparmor_parser"
+Mar  1 12:53:07 111 kernel: [   15.086898] type=1400 audit(1299001983.079:9): apparmor="STATUS" operation="profile_replace" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=557 comm="apparmor_parser"
+Mar  1 12:53:07 111 kernel: [   15.087259] type=1400 audit(1299001983.079:10): apparmor="STATUS" operation="profile_replace" name="/usr/lib/connman/scripts/dhclient-script" pid=557 comm="apparmor_parser"
+Mar  1 12:53:07 111 kernel: [   15.555926] Console: switching to colour frame buffer device 170x48
+Mar  1 12:53:07 111 kernel: [   15.559595] fb0: inteldrmfb frame buffer device
+Mar  1 12:53:07 111 kernel: [   15.559596] drm: registered panic notifier
+Mar  1 12:53:07 111 kernel: [   15.559599] Slow work thread pool: Starting up
+Mar  1 12:53:07 111 kernel: [   15.559677] Slow work thread pool: Ready
+Mar  1 12:53:07 111 kernel: [   15.564772] ACPI Error (dswload-0802): [_T_0] Namespace lookup failure, AE_ALREADY_EXISTS
+Mar  1 12:53:07 111 kernel: [   15.564778] ACPI Exception: AE_ALREADY_EXISTS, During name lookup/catalog (20100428/psloop-231)
+Mar  1 12:53:07 111 kernel: [   15.564784] ACPI Error (psparse-0537): Method parse/execution failed [\_SB_.PCI0.OVGA.DD03.GBQC] (Node f74225b8), AE_ALREADY_EXISTS
+Mar  1 12:53:07 111 kernel: [   15.564794] ACPI: Marking method GBQC as Serialized because of AE_ALREADY_EXISTS error
+Mar  1 12:53:07 111 kernel: [   15.564828] ACPI Error (psparse-0537): Method parse/execution failed [\_SB_.PCI0.OVGA.DD03._BQC] (Node f74225a0), AE_ALREADY_EXISTS
+Mar  1 12:53:07 111 kernel: [   15.564837] ACPI: Marking method _BQC as Serialized because of AE_ALREADY_EXISTS error
+Mar  1 12:53:07 111 kernel: [   15.564876] ACPI Warning: Evaluating _BQC failed (20100428/video-651)
+Mar  1 12:53:07 111 kernel: [   15.868389] acpi device:02: registered as cooling_device2
+Mar  1 12:53:07 111 kernel: [   15.868734] input: Video Bus as /devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/LNXVIDEO:00/input/input11
+Mar  1 12:53:07 111 kernel: [   15.868789] ACPI: Video Device [OVGA] (multi-head: yes  rom: no  post: no)
+Mar  1 12:53:07 111 kernel: [   15.868855] [drm] Initialized i915 1.6.0 20080730 for 0000:00:02.0 on minor 0
+Mar  1 12:53:07 111 kernel: [   16.112099] Skipping EDID probe due to cached edid
+Mar  1 12:53:07 111 kernel: [   19.665606] type=1400 audit(1299001987.659:11): apparmor="STATUS" operation="profile_load" name="/usr/lib/cups/backend/cups-pdf" pid=948 comm="apparmor_parser"
+Mar  1 12:53:08 111 kernel: [   20.021727] ppdev: user-space parallel port driver
+Mar  1 12:53:08 111 kernel: [   20.782905] audit_printk_skb: 3 callbacks suppressed
+Mar  1 12:53:08 111 kernel: [   20.782908] type=1400 audit(1299001988.775:13): apparmor="STATUS" operation="profile_replace" name="/sbin/dhclient3" pid=993 comm="apparmor_parser"
+Mar  1 12:53:08 111 kernel: [   20.783569] type=1400 audit(1299001988.775:14): apparmor="STATUS" operation="profile_replace" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=993 comm="apparmor_parser"
+Mar  1 12:53:08 111 kernel: [   20.783930] type=1400 audit(1299001988.775:15): apparmor="STATUS" operation="profile_replace" name="/usr/lib/connman/scripts/dhclient-script" pid=993 comm="apparmor_parser"
+Mar  1 12:53:08 111 kernel: [   20.870102] type=1400 audit(1299001988.863:16): apparmor="STATUS" operation="profile_load" name="/usr/share/gdm/guest-session/Xsession" pid=992 comm="apparmor_parser"
+Mar  1 12:53:08 111 kernel: [   20.874462] type=1400 audit(1299001988.867:17): apparmor="STATUS" operation="profile_replace" name="/usr/lib/cups/backend/cups-pdf" pid=1061 comm="apparmor_parser"
+Mar  1 12:53:08 111 kernel: [   20.875271] type=1400 audit(1299001988.867:18): apparmor="STATUS" operation="profile_replace" name="/usr/sbin/cupsd" pid=1061 comm="apparmor_parser"
+Mar  1 12:53:09 111 kernel: [   21.203608] r8169 0000:03:00.0: eth0: link down
+Mar  1 12:53:09 111 kernel: [   21.203791] ADDRCONF(NETDEV_UP): eth0: link is not ready
+Mar  1 12:53:09 111 kernel: [   21.385770] type=1400 audit(1299001989.379:19): apparmor="STATUS" operation="profile_load" name="/usr/sbin/mysqld" pid=1062 comm="apparmor_parser"
+Mar  1 12:53:09 111 kernel: [   21.586640] type=1400 audit(1299001989.579:20): apparmor="STATUS" operation="profile_load" name="/usr/bin/evince" pid=994 comm="apparmor_parser"
+Mar  1 12:53:09 111 kernel: [   21.595189] type=1400 audit(1299001989.587:21): apparmor="STATUS" operation="profile_load" name="/usr/bin/evince-previewer" pid=994 comm="apparmor_parser"
+Mar  1 12:53:09 111 kernel: [   21.600741] type=1400 audit(1299001989.595:22): apparmor="STATUS" operation="profile_load" name="/usr/bin/evince-thumbnailer" pid=994 comm="apparmor_parser"
+Mar  1 12:53:10 111 kernel: [   22.356236] Skipping EDID probe due to cached edid
+Mar  1 12:53:10 111 kernel: [   22.384199] Skipping EDID probe due to cached edid
+Mar  1 12:53:15 111 kernel: [   27.016069] Skipping EDID probe due to cached edid
+Mar  1 12:53:15 111 kernel: [   27.208065] Skipping EDID probe due to cached edid
+Mar  1 12:53:15 111 kernel: [   27.246998] Skipping EDID probe due to cached edid
+Mar  1 12:53:15 111 kernel: [   27.280635] Skipping EDID probe due to cached edid
+Mar  1 12:53:17 111 kernel: [   29.640557] Skipping EDID probe due to cached edid
+Mar  1 12:53:23 111 kernel: [   35.691384] atkbd serio0: Unknown key pressed (translated set 2, code 0x94 on isa0060/serio0).
+Mar  1 12:53:23 111 kernel: [   35.691391] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Mar  1 12:53:23 111 kernel: [   35.697050] atkbd serio0: Unknown key released (translated set 2, code 0x94 on isa0060/serio0).
+Mar  1 12:53:23 111 kernel: [   35.697054] atkbd serio0: Use 'setkeycodes e014 <keycode>' to make it known.
+Mar  1 12:53:27 111 kernel: [   39.424114] Skipping EDID probe due to cached edid
+Mar  1 12:53:27 111 kernel: [   39.452107] Skipping EDID probe due to cached edid
+Mar  1 12:53:27 111 kernel: [   39.488112] Skipping EDID probe due to cached edid
+Mar  1 12:53:27 111 kernel: [   39.564586] Skipping EDID probe due to cached edid
+Mar  1 12:53:31 111 kernel: [   43.308582] Skipping EDID probe due to cached edid
+Mar  1 12:53:32 111 kernel: [   44.890524] Skipping EDID probe due to cached edid
+Mar  1 13:00:34 111 kernel: [  466.117208] lo: Disabled Privacy Extensions
+Mar  1 13:04:05 111 kernel: [  677.009448] sr 1:0:0:0: CDB: Test Unit Ready: 00 00 00 00 00 00
+Mar  1 13:04:05 111 kernel: [  677.009484] ata2: hard resetting link
+Mar  1 13:04:05 111 kernel: [  677.904109] ata2: SATA link up 1.5 Gbps (SStatus 113 SControl 300)
+Mar  1 13:04:05 111 kernel: [  677.935137] ata2.00: configured for UDMA/100
+Mar  1 13:04:05 111 kernel: [  677.937054] ata2: EH complete
+Mar  2 09:01:44 111 kernel: [  785.660276] PM: Syncing filesystems ... done.
+Mar  2 09:01:45 111 kernel: [  785.681844] Freezing user space processes ... (elapsed 0.01 seconds) done.
+Mar  2 09:01:45 111 kernel: [  785.696626] Freezing remaining freezable tasks ... (elapsed 0.01 seconds) done.
+Mar  2 09:01:45 111 kernel: [  785.712635] PM: Preallocating image memory... done (allocated 863969 pages)
+Mar  2 09:01:45 111 kernel: [  814.046577] PM: Allocated 3455876 kbytes in 28.33 seconds (121.98 MB/s)
+Mar  2 09:01:45 111 kernel: [  814.046580] Suspending console(s) (use no_console_suspend to debug)
+Mar  2 09:01:45 111 kernel: [  814.047268] sd 0:0:0:0: [sda] Synchronizing SCSI cache
+Mar  2 09:01:45 111 kernel: [  814.048309] wl 0000:02:00.0: PCI INT A disabled
+Mar  2 09:01:45 111 kernel: [  814.256076] HDA Intel 0000:00:1b.0: PCI INT A disabled
+Mar  2 09:01:45 111 kernel: [  814.272015] PM: freeze of drv:HDA Intel dev:0000:00:1b.0 complete after 223.643 msecs
+Mar  2 09:01:45 111 kernel: [  814.272028] PM: freeze of drv: dev:pci0000:00 complete after 223.348 msecs
+Mar  2 09:01:45 111 kernel: [  814.272036] PM: freeze of devices complete after 225.137 msecs
+Mar  2 09:01:45 111 kernel: [  814.272881] PM: late freeze of devices complete after 0.841 msecs
+Mar  2 09:01:45 111 kernel: [  814.273192] ACPI: Preparing to enter system sleep state S4
+Mar  2 09:01:45 111 kernel: [  814.381316] PM: Saving platform NVS memory
+Mar  2 09:01:45 111 kernel: [  814.387562] PM: Saving platform NVS memory
+Mar  2 09:01:45 111 kernel: [  814.393770] Disabling non-boot CPUs ...
+Mar  2 09:01:45 111 kernel: [  814.396624] Broke affinity for irq 12
+Mar  2 09:01:45 111 kernel: [  814.396662] Broke affinity for irq 45
+Mar  2 09:01:45 111 kernel: [  814.500015] CPU 1 is now offline
+Mar  2 09:01:45 111 kernel: [  814.500018] SMP alternatives: switching to UP code
+Mar  2 09:01:45 111 kernel: [  814.507292] PM: Creating hibernation image:
+Mar  2 09:01:45 111 kernel: [  814.508007] PM: Need to copy 132125 pages
+Mar  2 09:01:45 111 kernel: [  814.508007] PM: Restoring platform NVS memory
+Mar  2 09:01:45 111 kernel: [  814.508007] Enabling non-boot CPUs ...
+Mar  2 09:01:45 111 kernel: [  814.508007] SMP alternatives: switching to SMP code
+Mar  2 09:01:45 111 kernel: [  814.514201] Booting Node 0 Processor 1 APIC 0x1
+Mar  2 09:01:45 111 kernel: [  814.506927] Initializing CPU#1
+Mar  2 09:01:45 111 kernel: [  814.628442] CPU1 is up
+Mar  2 09:01:45 111 kernel: [  814.629020] ACPI: Waking up from system sleep state S4
+Mar  2 09:01:45 111 kernel: [  814.835875] PM: early restore of devices complete after 1.850 msecs
+Mar  2 09:01:45 111 kernel: [  814.880681] usb usb3: root hub lost power or was reset
+Mar  2 09:01:45 111 kernel: [  814.880740] usb usb4: root hub lost power or was reset
+Mar  2 09:01:45 111 kernel: [  814.880787] usb usb1: root hub lost power or was reset
+Mar  2 09:01:45 111 kernel: [  814.884687] HDA Intel 0000:00:1b.0: PCI INT A -> GSI 22 (level, low) -> IRQ 22
+Mar  2 09:01:45 111 kernel: [  814.884830] usb usb5: root hub lost power or was reset
+Mar  2 09:01:45 111 kernel: [  814.884888] usb usb6: root hub lost power or was reset
+Mar  2 09:01:45 111 kernel: [  814.884945] usb usb7: root hub lost power or was reset
+Mar  2 09:01:45 111 kernel: [  814.885002] usb usb8: root hub lost power or was reset
+Mar  2 09:01:46 111 kernel: [  814.885042] usb usb2: root hub lost power or was reset
+Mar  2 09:01:46 111 kernel: [  814.889203] wl 0000:02:00.0: PCI INT A -> GSI 16 (level, low) -> IRQ 16
+Mar  2 09:01:46 111 kernel: [  814.920177] sd 0:0:0:0: [sda] Starting disk
+Mar  2 09:01:46 111 kernel: [  815.040541] PM: restore of drv:usb dev:usb1 complete after 134.255 msecs
+Mar  2 09:01:46 111 kernel: [  815.040785] PM: restore of drv:hub dev:1-0:1.0 complete after 134.495 msecs
+Mar  2 09:01:46 111 kernel: [  815.052540] PM: restore of drv:usb dev:usb5 complete after 142.231 msecs
+Mar  2 09:01:46 111 kernel: [  815.052546] PM: restore of drv:hub dev:5-0:1.0 complete after 142.232 msecs
+Mar  2 09:01:46 111 kernel: [  815.052577] PM: restore of drv:usb dev:usb3 complete after 142.291 msecs
+Mar  2 09:01:46 111 kernel: [  815.052582] PM: restore of drv:hub dev:3-0:1.0 complete after 142.286 msecs
+Mar  2 09:01:46 111 kernel: [  815.052597] PM: restore of drv:usb dev:usb4 complete after 142.298 msecs
+Mar  2 09:01:46 111 kernel: [  815.052603] PM: restore of drv:hub dev:4-0:1.0 complete after 142.298 msecs
+Mar  2 09:01:46 111 kernel: [  815.064540] PM: restore of drv:usb dev:usb8 complete after 144.477 msecs
+Mar  2 09:01:46 111 kernel: [  815.064546] PM: restore of drv:hub dev:8-0:1.0 complete after 144.461 msecs
+Mar  2 09:01:46 111 kernel: [  815.064562] PM: restore of drv:usb dev:usb7 complete after 144.546 msecs
+Mar  2 09:01:46 111 kernel: [  815.064567] PM: restore of drv:hub dev:7-0:1.0 complete after 144.520 msecs
+Mar  2 09:01:46 111 kernel: [  815.144530] PM: restore of drv:usb dev:usb2 complete after 238.238 msecs
+Mar  2 09:01:46 111 kernel: [  815.144538] PM: restore of drv:hub dev:2-0:1.0 complete after 234.262 msecs
+Mar  2 09:01:46 111 kernel: [  815.156529] PM: restore of drv:usb dev:usb6 complete after 246.189 msecs
+Mar  2 09:01:46 111 kernel: [  815.156535] PM: restore of drv:hub dev:6-0:1.0 complete after 243.505 msecs
+Mar  2 09:01:46 111 kernel: [  815.160540] PM: restore of drv:lis3lv02d dev:HPQ0004:00 complete after 167.092 msecs
+Mar  2 09:01:46 111 kernel: [  815.232537] ata6: SATA link down (SStatus 0 SControl 300)
+Mar  2 09:01:46 111 kernel: [  815.240536] ata5: SATA link down (SStatus 0 SControl 300)
+Mar  2 09:01:46 111 kernel: [  815.256539] usb 2-4: reset high speed USB device using ehci_hcd and address 2
+Mar  2 09:01:46 111 kernel: [  815.396566] ata1: SATA link up 3.0 Gbps (SStatus 123 SControl 300)
+Mar  2 09:01:46 111 kernel: [  815.398350] ata1.00: configured for UDMA/100
+Mar  2 09:01:46 111 kernel: [  815.420530] ata2: SATA link up 1.5 Gbps (SStatus 113 SControl 300)
+Mar  2 09:01:46 111 kernel: [  815.433372] PM: restore of drv:sd dev:0:0:0:0 complete after 513.195 msecs
+Mar  2 09:01:46 111 kernel: [  815.433381] PM: restore of drv:scsi_device dev:0:0:0:0 complete after 513.169 msecs
+Mar  2 09:01:46 111 kernel: [  815.435116] PM: restore of drv:usb dev:2-4 complete after 514.986 msecs
+Mar  2 09:01:46 111 kernel: [  815.435124] PM: restore of drv:uvcvideo dev:2-4:1.1 complete after 514.965 msecs
+Mar  2 09:01:46 111 kernel: [  815.435131] PM: restore of drv:uvcvideo dev:2-4:1.0 complete after 514.986 msecs
+Mar  2 09:01:46 111 kernel: [  815.435138] PM: restore of drv: dev:ep_83 complete after 265.034 msecs
+Mar  2 09:01:46 111 kernel: [  815.456851] ata2.00: configured for UDMA/100
+Mar  2 09:01:46 111 kernel: [  815.957066] PM: restore of drv:i915 dev:0000:00:02.0 complete after 1076.462 msecs
+Mar  2 09:01:46 111 kernel: [  815.957085] PM: restore of drv:drm dev:controlD64 complete after 516.025 msecs
+Mar  2 09:01:46 111 kernel: [  815.957142] PM: restore of devices complete after 1076.751 msecs
+Mar  2 09:01:46 111 kernel: [  815.957466] Restarting tasks ... done.
+Mar  2 09:01:46 111 kernel: [  815.957898] video LNXVIDEO:00: Restoring backlight state
+Mar  2 09:01:52 111 kernel: [  826.075163] r8169 0000:03:00.0: eth0: link down
+Mar  2 09:01:52 111 kernel: [  826.075412] ADDRCONF(NETDEV_UP): eth0: link is not ready
+Mar  2 09:01:54 111 kernel: [  827.728985] Skipping EDID probe due to cached edid
+Mar  2 09:02:08 111 kernel: [  841.143149] sr 1:0:0:0: CDB: Test Unit Ready: 00 00 00 00 00 00
+Mar  2 09:02:08 111 kernel: [  841.143170] ata2: hard resetting link
+Mar  2 09:02:08 111 kernel: [  842.040537] ata2: SATA link up 1.5 Gbps (SStatus 113 SControl 300)
+Mar  2 09:02:08 111 kernel: [  842.071374] ata2.00: configured for UDMA/100
+Mar  2 09:02:08 111 kernel: [  842.071853] ata2: EH complete
+Mar  2 09:14:56 111 kernel: [ 1609.392148] ata1: hard resetting link
+Mar  2 09:14:57 111 kernel: [ 1610.288241] ata1: SATA link up 3.0 Gbps (SStatus 123 SControl 300)
+Mar  2 09:14:57 111 kernel: [ 1610.290075] ata1.00: configured for UDMA/100
+Mar  2 09:14:57 111 kernel: [ 1610.290084] ata1: EH complete
+Mar  2 09:17:21 111 kernel: [ 1754.896294] CE: hpet increased min_delta_ns to 7500 nsec
+Mar  2 09:19:57 111 rsyslogd: [origin software="rsyslogd" swVersion="4.2.0" x-pid="935" x-info="http://www.rsyslog.com"] rsyslogd was HUPed, type 'lightweight'.
+Mar  2 09:25:25 111 kernel: [ 2238.424346] CE: hpet increased min_delta_ns to 11250 nsec
+Mar  2 11:02:45 111 kernel: [ 7039.984456] PM: Syncing filesystems ... done.
+Mar  2 11:02:46 111 kernel: [ 7039.992728] Freezing user space processes ... (elapsed 0.01 seconds) done.
+Mar  2 11:02:46 111 kernel: [ 7040.008117] Freezing remaining freezable tasks ... (elapsed 0.01 seconds) done.
+Mar  2 11:02:46 111 kernel: [ 7040.024134] PM: Preallocating image memory... done (allocated 863967 pages)
+Mar  2 11:02:46 111 kernel: [ 7057.815421] PM: Allocated 3455868 kbytes in 17.79 seconds (194.25 MB/s)
+Mar  2 11:02:46 111 kernel: [ 7057.815424] Suspending console(s) (use no_console_suspend to debug)
+Mar  2 11:02:46 111 kernel: [ 7057.816124] sd 0:0:0:0: [sda] Synchronizing SCSI cache
+Mar  2 11:02:46 111 kernel: [ 7057.817142] wl 0000:02:00.0: PCI INT A disabled
+Mar  2 11:02:46 111 kernel: [ 7057.817233] HDA Intel 0000:00:1b.0: PCI INT A disabled
+Mar  2 11:02:46 111 kernel: [ 7057.880168] PM: freeze of devices complete after 64.434 msecs
+Mar  2 11:02:46 111 kernel: [ 7057.881197] PM: late freeze of devices complete after 1.025 msecs
+Mar  2 11:02:46 111 kernel: [ 7057.881529] ACPI: Preparing to enter system sleep state S4
+Mar  2 11:02:46 111 kernel: [ 7057.989306] PM: Saving platform NVS memory
+Mar  2 11:02:46 111 kernel: [ 7057.995472] PM: Saving platform NVS memory
+Mar  2 11:02:46 111 kernel: [ 7058.001576] Disabling non-boot CPUs ...
+Mar  2 11:02:46 111 kernel: [ 7058.001720] Broke affinity for irq 19
+Mar  2 11:02:46 111 kernel: [ 7058.104025] CPU 1 is now offline
+Mar  2 11:02:46 111 kernel: [ 7058.104028] SMP alternatives: switching to UP code
+Mar  2 11:02:46 111 kernel: [ 7058.111288] PM: Creating hibernation image:
+Mar  2 11:02:46 111 kernel: [ 7058.112007] PM: Need to copy 135884 pages
+Mar  2 11:02:46 111 kernel: [ 7058.112007] PM: Restoring platform NVS memory
+Mar  2 11:02:46 111 kernel: [ 7058.112007] Enabling non-boot CPUs ...
+Mar  2 11:02:46 111 kernel: [ 7058.112007] SMP alternatives: switching to SMP code
+Mar  2 11:02:46 111 kernel: [ 7058.118206] Booting Node 0 Processor 1 APIC 0x1
+Mar  2 11:02:46 111 kernel: [ 7058.110949] Initializing CPU#1
+Mar  2 11:02:46 111 kernel: [ 7058.232437] CPU1 is up
+Mar  2 11:02:46 111 kernel: [ 7058.233031] ACPI: Waking up from system sleep state S4
+Mar  2 11:02:46 111 kernel: [ 7058.455876] PM: early restore of devices complete after 1.843 msecs
+Mar  2 11:02:46 111 kernel: [ 7058.501304] usb usb3: root hub lost power or was reset
+Mar  2 11:02:46 111 kernel: [ 7058.501362] usb usb4: root hub lost power or was reset
+Mar  2 11:02:46 111 kernel: [ 7058.501407] usb usb1: root hub lost power or was reset
+Mar  2 11:02:46 111 kernel: [ 7058.505300] HDA Intel 0000:00:1b.0: PCI INT A -> GSI 22 (level, low) -> IRQ 22
+Mar  2 11:02:46 111 kernel: [ 7058.505444] usb usb5: root hub lost power or was reset
+Mar  2 11:02:46 111 kernel: [ 7058.505501] usb usb6: root hub lost power or was reset
+Mar  2 11:02:46 111 kernel: [ 7058.505558] usb usb7: root hub lost power or was reset
+Mar  2 11:02:46 111 kernel: [ 7058.505614] usb usb8: root hub lost power or was reset
+Mar  2 11:02:46 111 kernel: [ 7058.505654] usb usb2: root hub lost power or was reset
+Mar  2 11:02:46 111 kernel: [ 7058.509813] wl 0000:02:00.0: PCI INT A -> GSI 16 (level, low) -> IRQ 16
+Mar  2 11:02:46 111 kernel: [ 7058.534677] sd 0:0:0:0: [sda] Starting disk
+Mar  2 11:02:46 111 kernel: [ 7058.656541] PM: restore of drv:usb dev:usb1 complete after 129.768 msecs
+Mar  2 11:02:46 111 kernel: [ 7058.656553] PM: restore of drv:hub dev:1-0:1.0 complete after 129.776 msecs
+Mar  2 11:02:46 111 kernel: [ 7058.672540] PM: restore of drv:usb dev:usb5 complete after 141.202 msecs
+Mar  2 11:02:46 111 kernel: [ 7058.672558] PM: restore of drv:usb dev:usb4 complete after 141.229 msecs
+Mar  2 11:02:46 111 kernel: [ 7058.672574] PM: restore of drv:usb dev:usb3 complete after 141.257 msecs
+Mar  2 11:02:46 111 kernel: [ 7058.672580] PM: restore of drv:hub dev:5-0:1.0 complete after 140.564 msecs
+Mar  2 11:02:46 111 kernel: [ 7058.672585] PM: restore of drv:hub dev:4-0:1.0 complete after 141.250 msecs
+Mar  2 11:02:46 111 kernel: [ 7058.672589] PM: restore of drv:hub dev:3-0:1.0 complete after 141.263 msecs
+Mar  2 11:02:46 111 kernel: [ 7058.676540] PM: restore of drv:usb dev:usb8 complete after 141.971 msecs
+Mar  2 11:02:46 111 kernel: [ 7058.676557] PM: restore of drv:usb dev:usb7 complete after 142.022 msecs
+Mar  2 11:02:46 111 kernel: [ 7058.676577] PM: restore of drv:hub dev:8-0:1.0 complete after 141.991 msecs
+Mar  2 11:02:46 111 kernel: [ 7058.676582] PM: restore of drv:hub dev:7-0:1.0 complete after 142.029 msecs
+Mar  2 11:02:46 111 kernel: [ 7058.764528] PM: restore of drv:usb dev:usb2 complete after 233.224 msecs
+Mar  2 11:02:46 111 kernel: [ 7058.764535] PM: restore of drv:hub dev:2-0:1.0 complete after 233.222 msecs
+Mar  2 11:02:46 111 kernel: [ 7058.772533] PM: restore of drv:lis3lv02d dev:HPQ0004:00 complete after 166.600 msecs
+Mar  2 11:02:46 111 kernel: [ 7058.780529] PM: restore of drv:usb dev:usb6 complete after 246.077 msecs
+Mar  2 11:02:46 111 kernel: [ 7058.780537] PM: restore of drv:hub dev:6-0:1.0 complete after 246.020 msecs
+Mar  2 11:02:46 111 kernel: [ 7058.852538] ata6: SATA link down (SStatus 0 SControl 300)
+Mar  2 11:02:46 111 kernel: [ 7058.860536] ata5: SATA link down (SStatus 0 SControl 300)
+Mar  2 11:02:46 111 kernel: [ 7058.876538] usb 2-4: reset high speed USB device using ehci_hcd and address 2
+Mar  2 11:02:46 111 kernel: [ 7059.016567] ata1: SATA link up 3.0 Gbps (SStatus 123 SControl 300)
+Mar  2 11:02:46 111 kernel: [ 7059.018342] ata1.00: configured for UDMA/100
+Mar  2 11:02:46 111 kernel: [ 7059.040530] ata2: SATA link up 1.5 Gbps (SStatus 113 SControl 300)
+Mar  2 11:02:46 111 kernel: [ 7059.053447] PM: restore of drv:sd dev:0:0:0:0 complete after 518.768 msecs
+Mar  2 11:02:46 111 kernel: [ 7059.053456] PM: restore of drv:scsi_device dev:0:0:0:0 complete after 518.741 msecs
+Mar  2 11:02:46 111 kernel: [ 7059.055106] PM: restore of drv:usb dev:2-4 complete after 520.474 msecs
+Mar  2 11:02:46 111 kernel: [ 7059.055114] PM: restore of drv:uvcvideo dev:2-4:1.1 complete after 520.452 msecs
+Mar  2 11:02:46 111 kernel: [ 7059.055120] PM: restore of drv:uvcvideo dev:2-4:1.0 complete after 520.473 msecs
+Mar  2 11:02:46 111 kernel: [ 7059.055127] PM: restore of drv: dev:ep_83 complete after 267.773 msecs
+Mar  2 11:02:46 111 kernel: [ 7059.075845] ata2.00: configured for UDMA/100
+Mar  2 11:02:46 111 kernel: [ 7059.628060] PM: restore of drv:i915 dev:0000:00:02.0 complete after 1126.834 msecs
+Mar  2 11:02:46 111 kernel: [ 7059.628074] PM: restore of drv:drm dev:controlD64 complete after 567.022 msecs
+Mar  2 11:02:46 111 kernel: [ 7059.628130] PM: restore of devices complete after 1127.111 msecs
+Mar  2 11:02:46 111 kernel: [ 7059.628458] Restarting tasks ... done.
+Mar  2 11:02:46 111 kernel: [ 7059.630012] video LNXVIDEO:00: Restoring backlight state
+Mar  2 11:02:57 111 kernel: [ 7074.029696] Skipping EDID probe due to cached edid
+Mar  2 11:02:58 111 kernel: [ 7074.321127] r8169 0000:03:00.0: eth0: link down
+Mar  2 11:02:58 111 kernel: [ 7074.321341] ADDRCONF(NETDEV_UP): eth0: link is not ready

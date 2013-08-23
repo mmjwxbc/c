@@ -1,0 +1,17 @@
+#include <stdio.h>
+#include <fcnltl.h>
+#include <string.h>
+
+main()
+{
+  struct termios info;
+  int values;
+
+  if (values = tcgetattr(0, &info) == -1)
+    perror("tcgetattr");
+  else
+  {
+    printf("Do you want the ISIG bit set or unset? usage s/u\n");
+    (while(c = getchar()) != NULL)
+    {
+      
