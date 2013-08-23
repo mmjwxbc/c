@@ -1,0 +1,27 @@
+Prototypes:
+
+unsigned int sleep(unsigned int);
+	 returns 0 or number of unslept seconds.
+
+#include <string.h>
+char * strchr(const char *cs, const char *c);
+     returns a pointer to the first occurence of a character in c in cs.
+     or a null pointer.
+
+SIGNALS
+
+Classical signaling (easy) <signal.h>
+
+Modern signaling (more complex) <sigatin.h>
+
+
+<signal.h> Classical
+
+void(* signal(int, void(*)(int)))(int);
+void(* signal(int signo, void(*f)(int signo)))(int signo);
+---------
+ex.
+signal(SIGSEGN, segment_handler);
+
+the signal() function returns a ptr to the previous handler function to reset the previous settings.
+

@@ -1,0 +1,14 @@
+notes:::
+
+string --
+char *s = "John Jay\n";
+
+exercise: check the string comparison function and try to write it.
+
+-- FILES
+	-Sequential files.
+	declaration: 
+		FILE *fp;
+		fp = fopen("C:\filename", "r+");		
+
+	-Random access files.

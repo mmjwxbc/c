@@ -1,0 +1,8 @@
+baud rate functions
+#include <termios.h>
+
+speed_t cfgetospeed(const struct termios *termptr);
+speed_t cfgetispeed(const struct termios *termptr);
+
+int cfsetospeed(struct termios * termptr, speed_t ospeed);
+int cfsetispeed(struct termios * termptf, speed_t ispeed);

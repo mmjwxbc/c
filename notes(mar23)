@@ -1,0 +1,38 @@
+notes 3/23
+
+/* to turn off buffering */
+
+#include <fcntl.h>
+
+int s;
+s=fcntl(fd, F_GETFL, 0);	/* get flags */
+s |= O_SYNC;			/* set SYNC bit * by "orning" ii */
+if (fcntl(fd, F_SETFL, s) == -1)
+	perror("settings SYNC");
+
+
+---
+
+with the open() statement:
+
+fd = open("myfile", O_RDWR|O_APPEND|O_SYNC);
+
+with the creat() statement: (olden days)
+
+fd = creat("myfile", /* permissions bits */);
+	open(fd, O_TRUNC|O_CREAT|O_EXCL);
+
+------
+The fcntl() function: PROTOTYPE
+
+int fcntl(int filedes, int cmd, /*new setting*/);
+
+returns cmd if ok -1 on error.
+
+functionality:::
+1.Duplicate a file descriptor(F_DUPFD)
+2.Set/Get file descriptor flags(F_SETFD, F_GETFD)
+3.Set/Get file descriptor settings(F_SETFL,F_GETFL)
+4.Set A.Sync I/O ownership(F_SETOWN, F_GETOWN)
+5.Set/Get record locks(F_SETLK, F_GETLK, FSETLKW)
+

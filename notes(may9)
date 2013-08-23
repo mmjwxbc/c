@@ -1,0 +1,5 @@
+Each timer has two settings:
+
+it_value    : the first time a signal is sent.
+it_interval : the period of time until the next signal is sent.
+

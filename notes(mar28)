@@ -1,0 +1,38 @@
+F_DUPFD (duplicate a file descriptor)
+clone teh file, create another file with the same particulars.
+used when you use pipes to connect one proccess to another.
+returns new file descriptor
+
+/*
+POSIX
+F_CLOEXEC (only 1 file descriptor defined)
+
+FLAGS
+O_RDONLY-----
+O_WRONLY-------	not separate bits.
+O_RDWR-------
+
+A mask is required to acess them: O_ACCMODE
+cannot be changed by fcntl().
+
+Other flags are set with single bits and may be changed using fcntl().
+
+O_APPEND;
+O_NONBLOCK;
+O_SYNC; (data, inode info)
+O_DSYNC; (just data)
+O_RSYNC; (syncronize the read and write)
+
+
+*/
+
+F_GETFD, F_GETFL
+returns descriptor or the flags
+
+F_GETOWN, F_SETOWN
+uid gid
+SIGIO
+SIGURG
+returns uid as a positive value or gid as a negative value. 
+
+

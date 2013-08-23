@@ -1,0 +1,58 @@
+Internal Structure of a File System
+1. Disk Drive
+	tracks     -> 	Blocks of
+	sectores   -> 	Memory
+
+2.Array
+
+C. The Array of a "File System"
+
+
+------
+PROTOTYPES
+------
+mkdir
+<sys/types.h>
+<sys/stat.h>
+
+int mkdir = mkdir(char *pathname, mode_t mode)
+
+returns -1 (error) 0 (success)
+
+-------
+rmdir
+<unistd.h>
+
+int rmdir(const char *path);
+
+retunrs -1 (error) 0 (success)
+
+-------
+rm (unlink)
+<unistd.h>
+
+int unlink(const char *path);
+
+returns -1 (error) 0 (success)
+
+-------
+ln (link)
+<unistd.h>
+
+int link(const char *orig, const char *new)
+
+returns -1 (error) 0 (sucess)
+
+-------
+mv (rename)
+<unistd.h>
+
+int rename(const char *from, const char *to);
+
+returns -1 (error) 0 (sucess)
+
+-------
+cd
+<unistd.h>
+
+int chdir(const char *path);

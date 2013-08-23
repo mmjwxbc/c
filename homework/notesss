@@ -1,0 +1,15 @@
+<stdio.h>
+
+char * fgets(char * restrict buf, int n, file * restrict fp);
+
+int fputs(const char * restrict str, FILE * restrict fp);
+
+int getc(FILE * fp);        / * macro * /
+
+int fgetc(FILE * fp);      / * Always a function * /
+
+int getchar(coid);		fgetc(stdin);
+
+
+
+

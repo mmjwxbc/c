@@ -1,0 +1,35 @@
+NOTES FOR THE TEST:
+
+----LS-------
+opendir(char *)
+	DIR *opendir(const char *dir_name);
+	creates a connection, returns a DIR *
+	
+readdir(DIR *)
+	struct dirent *readdir(DIR *dir_ptr);
+	reads next record, returns a pointer to a struct dirent.
+
+closedir(DIR *)
+	int closedir(DIR *dir_ptr);
+	closes a connection.	
+
+seekdir()
+	void seekdir(DIR *dir_pointer, long location);
+
+struct dirent {
+	ino_t		d_ino;
+	off_t		d_off;
+	unsigned short	d_reclen;
+	char		d_name;
+};/* include <dirent.h>
+
+stat
+
+chmod()
+chown()
+utime()
+----CHMOD----
+
+----CHOWN----
+
+----RENAME---
